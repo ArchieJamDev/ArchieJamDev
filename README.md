@@ -39,19 +39,30 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 ---
 
 ### 🚀 Proyecto Destacado
+### 🖼️ Vistazo Visual de *AssumptionsLab* y la Suite en Jamovi
 
-<table width="100%">
-  <tr>
-    <td width="60" align="center">
-      <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logo.png" width="50" alt="Icon">
-    </td>
-    <td>
-      <h3><a href="https://github.com/ArchieJamDev/AssumptionsLab">AssumptionsLab</a></h3>
-      <p>Módulo avanzado para <strong>Jamovi</strong> diseñado para automatizar y agilizar la verificación rigurosa de supuestos estadísticos en modelos de investigación.</p>
-      <p><b>Stack:</b> R, Jamovi Framework, Git</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MenuPrincipal.png" width="100%" alt="Menu Principal Jamovi">
+        <p><em>Suite metodológica integrada en Jamovi</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/path1.png" width="100%" alt="Path Analysis y Validación">
+        <p><em>Path Analysis y Validación Estructural</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="100%" alt="Path Analysis y Validación">
+        <p><em>Path Analysis y Validación Estructural</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion31.png" width="100%" alt="Path Analysis y Validación">
+        <p><em>Path Analysis y Validación Estructural</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
