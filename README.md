@@ -41,46 +41,45 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 ### 🚀 Proyecto Destacado
 ### 🖼️ Vistazo Visual de *AssumptionsLab* y la Suite en Jamovi
 
-
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MenuPrincipal.png" width="100%" alt="Menu Principal">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MenuPrincipal.png" width="75%" loading="lazy" alt="Menu Principal">
         <p><em>Suite integrada en Jamovi</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/path1.png" width="100%" alt="Path Analysis">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/path1.png" width="75%" loading="lazy" alt="Path Analysis">
         <p><em>Path Analysis y Validación Estructural</em></p>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion1.png" width="100%" alt="Regresión">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion1.png" width="75%" loading="lazy" alt="Regresión">
         <p><em>Modelos de Regresión y Diagnóstico</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion2.png" width="100%" alt="Gráficos de Regresión">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion2.png" width="75%" loading="lazy" alt="Gráficos de Regresión">
         <p><em>Comparación de Métricas de Asociación</em></p>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.jpg" width="100%" alt="Gráficos Detallados">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.jpg" width="75%" loading="lazy" alt="Gráficos Detallados">
         <p><em>Gráficos de Influencia y Dispersión</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="100%" alt="Grupos Relacionados">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="75%" loading="lazy" alt="Grupos Relacionados">
         <p><em>Análisis de Grupos Relacionados</em></p>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/libreria1.png" width="100%" alt="Librería de Supuestos">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/libreria1.png" width="75%" loading="lazy" alt="Librería de Supuestos">
         <p><em>Biblioteca de Supuestos Metodológicos</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/biblio1.png" width="100%" alt="Bibliografía APA">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/biblio1.png" width="75%" loading="lazy" alt="Bibliografía APA">
         <p><em>Referencias y Estilo APA Integrado</em></p>
       </td>
     </tr>
