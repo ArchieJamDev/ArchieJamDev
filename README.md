@@ -91,15 +91,25 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 ### 📊 Estadísticas y Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieJamDev&layout=compact&theme=vue-dark&hide=dockerfile" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchieJamDev&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
+  <!-- Insignias estables de tecnologías principales basadas en actividad -->
+  <p>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Jamovi-Framework-008080?style=for-the-badge&logo=databricks&logoColor=white" alt="Jamovi">
+    <img src="https://img.shields.io/badge/Linux-Kubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </p>
+
+  <!-- Tarjeta simplificada de GitHub Stats con parámetros seguros -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArchieJamDev&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="mailto:tu_correo@universidad.edu">
-    <img src="https://img.shields.io/badge/Contacto-Académico-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/CONTACTO-ACADÉMICO-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+---
