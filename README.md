@@ -40,8 +40,7 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 
 ---
 
-### 🚀 Proyecto Destacado
-### 🖼️ AssumptionsLab en Jamovi
+### AssumptionsLab
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TU_NUMERO_AQUI.svg)](https://doi.org/10.5281/zenodo.TU_NUMERO_AQUI)
 <div align="center">
   <table width="100%">
