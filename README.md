@@ -17,7 +17,7 @@
     <td width="150" align="center">
       <a href="https://github.com/ArchieJamDev/AssumptionsLab">
         <!-- LOGO ACTUALIZADO CON TU NOMBRE DE ARCHIVO -->
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab.jpeg" width="140" alt="AssumptionsLab Logo">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logo.png" width="140" alt="AssumptionsLab Logo">
       </a>
     </td>
     <td width="450">
