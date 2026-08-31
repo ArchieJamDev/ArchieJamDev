@@ -91,7 +91,7 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 ### 📊 Estadísticas y Métricas
 
 <div align="center">
-  <!-- Insignias estables de tecnologías principales basadas en actividad -->
+  <!-- Insignias de Tecnologías Principales -->
   <p>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -99,9 +99,12 @@ Como especialista en desarrollo de software científico, diseño herramientas me
     <img src="https://img.shields.io/badge/Linux-Kubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </p>
 
-  <!-- Tarjeta simplificada de GitHub Stats con parámetros seguros -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchieJamDev&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="GitHub Stats" loading="lazy" />
+  <!-- Insignias de Estado y Enfoque en I+D -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Psychometrics_%26_Quantitative_Research-blueviolet?style=flat-square" alt="Focus">
+    <img src="https://img.shields.io/badge/Modules-AssumptionsLab_%7C_ValidityLab-success?style=flat-square" alt="Modules">
+    <img src="https://img.shields.io/badge/Environment-RStudio_%26_Kubuntu_Plasma-informational?style=flat-square&logo=kde" alt="KDE">
+  </p>
 </div>
 
 <br>
