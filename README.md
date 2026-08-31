@@ -18,11 +18,15 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+---
 
-* 🧠 **Perfil:** Doctor en Psicología y especialista en modelado estadístico, psicometría y análisis cuantitativo de datos (*People Analytics*).
-* 🔬 **Enfoque:** Desarrollo de software científico y herramientas metodológicas de libre acceso en **R** y **Python** para la comunidad académica e investigadora.
-* 🛠️ **Entorno:** Usuario entusiasta de sistemas Linux (Kubuntu/Linux Mint) y metodologías de automatización orientadas a la reproducibilidad científica.
+### Sobre mí
+
+Doctor en Psicología y profesor universitario con más de 15 años de trayectoria académica. Mi labor se centra en la investigación cuantitativa, la psicometría avanzada y el análisis de datos, con un firme compromiso hacia la divulgación de una ciencia abierta y rigurosa.
+
+Como especialista en desarrollo de software científico, diseño herramientas metodológicas y módulos de libre acceso en **R** y **Jamovi** —como *AssumptionsLab*— orientados a optimizar la verificación de supuestos estadísticos en la investigación empírica. 
+
+---
 
 ---
 
