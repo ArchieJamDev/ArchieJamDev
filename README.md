@@ -45,24 +45,38 @@ Como especialista en desarrollo de software científico, diseño herramientas me
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MenuPrincipal.png" width="100%" alt="Menu Principal Jamovi">
-        <p><em>Suite metodológica integrada en Jamovi</em></p>
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MenuPrincipal.png" width="100%" alt="Menu Principal">
+        <p><em>Suite integrada en Jamovi</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/path1.png" width="100%" alt="Path Analysis y Validación">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/path1.png" width="100%" alt="Path Analysis">
         <p><em>Path Analysis y Validación Estructural</em></p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="100%" alt="Path Analysis y Validación">
-        <p><em>Path Analysis y Validación Estructural</em></p>
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.png" width="100%" alt="Regresión">
+        <p><em>Modelos de Regresión y Diagnóstico</em></p>
       </td>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion31.png" width="100%" alt="Path Analysis y Validación">
-        <p><em>Path Analysis y Validación Estructural</em></p>
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="100%" alt="Grupos Relacionados">
+        <p><em>Análisis de Grupos Relacionados</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/libreria1.png" width="100%" alt="Librería de Supuestos">
+        <p><em>Biblioteca de Supuestos Metodológicos</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/biblio1.png" width="100%" alt="Bibliografía APA">
+        <p><em>Referencias y Estilo APA Integrado</em></p>
       </td>
     </tr>
   </table>
 </div>
+
+---
 
 ---
 
