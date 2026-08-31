@@ -41,6 +41,10 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 ### 🚀 Proyecto Destacado
 ### 🖼️ Vistazo Visual de *AssumptionsLab* y la Suite en Jamovi
 
+---
+
+### 🖼️ Vistazo Visual de *AssumptionsLab* y la Suite en Jamovi
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -55,8 +59,18 @@ Como especialista en desarrollo de software científico, diseño herramientas me
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.png" width="100%" alt="Regresión">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion1.png" width="100%" alt="Regresión">
         <p><em>Modelos de Regresión y Diagnóstico</em></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion2.png" width="100%" alt="Gráficos de Regresión">
+        <p><em>Comparación de Métricas de Asociación</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.jpg" width="100%" alt="Gráficos Detallados">
+        <p><em>Gráficos de Influencia y Dispersión</em></p>
       </td>
       <td align="center" width="50%">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="100%" alt="Grupos Relacionados">
@@ -75,6 +89,8 @@ Como especialista en desarrollo de software científico, diseño herramientas me
     </tr>
   </table>
 </div>
+
+---
 
 ---
 
