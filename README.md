@@ -65,7 +65,7 @@ Como especialista en desarrollo de software científico, diseño herramientas me
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.jpg" width="75%" loading="lazy" alt="Gráficos Detallados">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.png" width="75%" loading="lazy" alt="Gráficos Detallados">
         <p><em>Gráficos de Influencia y Dispersión</em></p>
       </td>
       <td align="center" width="50%">
