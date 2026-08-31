@@ -41,9 +41,6 @@ Como especialista en desarrollo de software científico, diseño herramientas me
 ### 🚀 Proyecto Destacado
 ### 🖼️ Vistazo Visual de *AssumptionsLab* y la Suite en Jamovi
 
----
-
-### 🖼️ Vistazo Visual de *AssumptionsLab* y la Suite en Jamovi
 
 <div align="center">
   <table width="100%">
@@ -89,10 +86,6 @@ Como especialista en desarrollo de software científico, diseño herramientas me
     </tr>
   </table>
 </div>
-
----
-
----
 
 ---
 
