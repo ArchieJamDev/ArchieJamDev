@@ -34,9 +34,13 @@
 
 ### Sobre mí
 
-Doctor en Psicología y profesor universitario con más de 15 años de trayectoria académica. Mi labor se centra en la investigación cuantitativa, la psicometría avanzada y el análisis de datos, con un firme compromiso hacia la divulgación de una ciencia abierta y rigurosa.
+I hold a Ph.D. in Psychology and am a university professor with more than 15 years of academic experience. My work focuses on quantitative research, advanced psychometrics, and data analysis, with a strong commitment to promoting open and rigorous science.
 
-Como especialista en desarrollo de software científico, diseño herramientas metodológicas y módulos de libre acceso en **R** y **Jamovi** —como *AssumptionsLab*— orientados a optimizar la verificación de supuestos estadísticos en la investigación empírica.
+As a specialist in scientific software development, I design methodological tools and open-access modules in **R** and **Jamovi**—such as *AssumptionsLab*—aimed at optimizing the verification of statistical assumptions in empirical research.
+
+<i>Doctor en Psicología y profesor universitario con más de 15 años de trayectoria académica. Mi labor se centra en la investigación cuantitativa, la psicometría avanzada y el análisis de datos, con un firme compromiso hacia la divulgación de una ciencia abierta y rigurosa.
+
+Como especialista en desarrollo de software científico, diseño herramientas metodológicas y módulos de libre acceso en **R** y **Jamovi** —como *AssumptionsLab*— orientados a optimizar la verificación de supuestos estadísticos en la investigación empírica.</i>
 
 ---
 
