@@ -57,43 +57,43 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 <summary><strong>📸 Ver capturas de AssumptionsLab</strong></summary>
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MenuPrincipal.png" width="75%" loading="lazy" alt="Menu Principal">
         <p><em>Suite integrada en Jamovi</em></p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/path1.png" width="75%" loading="lazy" alt="Path Analysis">
         <p><em>Path Analysis y Validación Estructural</em></p>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion1.png" width="75%" loading="lazy" alt="Regresión">
         <p><em>Modelos de Regresión y Diagnóstico</em></p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion2.png" width="75%" loading="lazy" alt="Gráficos de Regresión">
         <p><em>Comparación de Métricas de Asociación</em></p>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/regresion3.png" width="75%" loading="lazy" alt="Gráficos Detallados">
         <p><em>Gráficos de Influencia y Dispersión</em></p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/related1.png" width="75%" loading="lazy" alt="Grupos Relacionados">
         <p><em>Análisis de Grupos Relacionados</em></p>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/libreria1.png" width="75%" loading="lazy" alt="Librería de Supuestos">
         <p><em>Biblioteca de Supuestos Metodológicos</em></p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/biblio1.png" width="75%" loading="lazy" alt="Bibliografía APA">
         <p><em>Referencias y Estilo APA Integrado</em></p>
       </td>
@@ -108,12 +108,12 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 ### 📊 Estadísticas y Métricas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArchieJamDev&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieJamDev&layout=compact&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArchieJamDev&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieJamDev&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArchieJamDev&theme=default" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=ArchieJamDev&theme=default&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
