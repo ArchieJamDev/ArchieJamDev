@@ -42,7 +42,14 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 ---
 
 ### AssumptionsLab
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209136.svg)](https://doi.org/10.5281/zenodo.22209136)
+
+**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics. It ships with a built-in methodological library and a unified, APA-7th-referenced bibliography.
+
+*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados. Incluye una biblioteca metodológica integrada y una bibliografía unificada en formato APA 7.*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
+[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
+
 <div align="center">
   <table width="100%">
     <tr>
