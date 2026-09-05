@@ -32,20 +32,30 @@
 
 ---
 
-### Sobre mí
+### About me
 
 I hold a Ph.D. in Psychology and am a university professor with more than 15 years of academic experience. My work focuses on quantitative research, advanced psychometrics, and data analysis, with a strong commitment to promoting open and rigorous science. As a specialist in scientific software development, I design methodological tools and open-access modules in **R** and **Jamovi**—such as *AssumptionsLab*—aimed at optimizing the verification of statistical assumptions in empirical research.
 
-### About me
+### Sobre mí
 <i>Doctor en Psicología y profesor universitario con más de 15 años de trayectoria académica. Mi labor se centra en la investigación cuantitativa, la psicometría avanzada y el análisis de datos, con un firme compromiso hacia la divulgación de una ciencia abierta y rigurosa. Como especialista en desarrollo de software científico, diseño herramientas metodológicas y módulos de libre acceso en **R** y **Jamovi** —como *AssumptionsLab*— orientados a optimizar la verificación de supuestos estadísticos en la investigación empírica.</i>
 
 ---
 
 ### AssumptionsLab
 
-**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics. It ships with a built-in methodological library and a unified, APA-7th-referenced bibliography.
+**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
 
-*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados. Incluye una biblioteca metodológica integrada y una bibliografía unificada en formato APA 7.*
+- **10 analysis modules**, from group comparisons to the full regression family (linear, logistic, ordinal logistic, multinomial logistic) to path analysis and time series (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).
+- A built-in **methodological library** and a unified, **APA 7th-referenced bibliography**, so a diagnostic can be traced back to its source without leaving jamovi.
+- Every result reported in **English and Spanish**.
+- **60 automated edge-case tests** running in CI on every push.
+
+*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados.*
+
+- *10 módulos de análisis, desde comparación de grupos hasta la familia completa de regresión (lineal, logística, ordinal, multinomial), pasando por path analysis y series de tiempo (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).*
+- *Biblioteca metodológica integrada y bibliografía unificada en formato APA 7.*
+- *Cada resultado reportado en inglés y español.*
+- *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
@@ -100,26 +110,24 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 ### 📊 Estadísticas y Métricas
 
 <div align="center">
-  <!-- Insignias de Tecnologías Principales -->
-  <p>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Jamovi-Framework-008080?style=for-the-badge&logo=databricks&logoColor=white" alt="Jamovi">
-    <img src="https://img.shields.io/badge/Linux-Kubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArchieJamDev&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieJamDev&layout=compact&theme=default" alt="Top languages" />
+</div>
 
-  <!-- Insignias de Estado y Enfoque en I+D -->
-  <p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArchieJamDev&theme=default" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
+  <p style="margin: 8px 0 0 0;">
     <img src="https://img.shields.io/badge/Focus-Psychometrics_%26_Quantitative_Research-blueviolet?style=flat-square" alt="Focus">
-    <img src="https://img.shields.io/badge/Modules-AssumptionsLab_%7C_ValidityLab-success?style=flat-square" alt="Modules">
-    <img src="https://img.shields.io/badge/Environment-RStudio_%26_Kubuntu_Plasma-informational?style=flat-square&logo=kde" alt="KDE">
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="mailto:tu_correo@universidad.edu">
+  <a href="mailto:arquimedeschacon@gmail.com">
     <img src="https://img.shields.io/badge/CONTACTO-ACADÉMICO-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
