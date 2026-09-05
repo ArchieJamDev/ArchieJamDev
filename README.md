@@ -27,10 +27,14 @@
 
 ### About me
 
-I hold a Ph.D. in Psychology and am a university professor with more than 15 years of academic experience. My work focuses on quantitative research, advanced psychometrics, and data analysis, with a strong commitment to promoting open and rigorous science. As a specialist in scientific software development, I design methodological tools and open-access modules in **R** and **Jamovi**—such as *AssumptionsLab*—aimed at optimizing the verification of statistical assumptions in empirical research.
+I'm a psychologist with a Ph.D. and more than 25 years of experience spanning organizational consulting, higher education, and quantitative research. Since 2011, I've worked as an independent senior consultant in **People Analytics**, designing predictive models, talent-segmentation strategies, and HR process automation for evidence-based decision-making, using **Python, R, SQL, and Power BI**. I've also taught quantitative research methods as a university professor at **Universidad Católica Andrés Bello** and **Universidad Metropolitana**, and completed a Data Science specialization at **Universidad de los Andes**.
+
+My published research covers psychometric validation of behavioral measurement instruments, and I build open-source statistical software — including **AssumptionsLab**, a jamovi module researchers use to verify statistical assumptions — to make rigorous methodology more accessible. I combine the rigor of data analysis with a humanistic view of organizations, aimed at evidence-based decisions in both research and practice.
 
 ### Sobre mí
-<i>Doctor en Psicología y profesor universitario con más de 15 años de trayectoria académica. Mi labor se centra en la investigación cuantitativa, la psicometría avanzada y el análisis de datos, con un firme compromiso hacia la divulgación de una ciencia abierta y rigurosa. Como especialista en desarrollo de software científico, diseño herramientas metodológicas y módulos de libre acceso en **R** y **Jamovi** —como *AssumptionsLab*— orientados a optimizar la verificación de supuestos estadísticos en la investigación empírica.</i>
+<i>Soy psicólogo con doctorado y más de 25 años de trayectoria entre la consultoría organizacional, la educación superior y la investigación cuantitativa. Desde 2011 trabajo como consultor senior independiente en **People Analytics**, diseñando modelos predictivos, estrategias de segmentación de talento y automatización de procesos de RRHH para la toma de decisiones basada en evidencia, usando **Python, R, SQL y Power BI**. También he sido docente universitario de métodos de investigación cuantitativa en la **Universidad Católica Andrés Bello** y la **Universidad Metropolitana**, y completé una especialización en Ciencia de Datos en la **Universidad de los Andes**.</i>
+
+<i>Mi investigación publicada abarca la validación psicométrica de instrumentos de medición conductual, y desarrollo software estadístico de código abierto —incluyendo **AssumptionsLab**, un módulo de jamovi que investigadores usan para verificar supuestos estadísticos— para hacer la metodología rigurosa más accesible. Combino el rigor del análisis de datos con una visión humanista de las organizaciones, orientada a decisiones basadas en evidencia tanto en la investigación como en la práctica.</i>
 
 ---
 
