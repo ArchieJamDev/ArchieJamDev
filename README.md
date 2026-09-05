@@ -1,33 +1,26 @@
-<div align="center" style="width: 100%;">
-  <table width="100%" style="border: 1px solid #d0d7de; border-collapse: collapse; margin: 0 auto;">
-    <tr>
-      <td align="left" valign="middle" width="50%" style="padding: 24px;">
-        <h1 style="margin: 0 0 12px 0; border-bottom: 1px solid #d0d7de; padding-bottom: 12px; font-size: 28px;">Arquímedes Chacón</h1>
-        <p style="margin: 0; padding-top: 4px;"><em>Quantitative Research • Psychometrics • Statistical Software Engineering</em></p>
-      </td>
-      <td align="center" valign="middle" width="50%" style="padding: 24px;">
-        <div style="display: inline-block; text-align: center;">
-          <!-- Insignias de Tecnologías (Centradas) -->
-          <p style="margin: 0 0 10px 0; text-align: center;">
-            <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-            <img src="https://img.shields.io/badge/Jamovi-008080?style=flat-square&logo=databricks&logoColor=white" alt="Jamovi">
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-          </p>
-          <!-- Enlaces Académicos y Profesionales (Centrados) -->
-          <p style="margin: 0; text-align: center;">
-            <a href="https://orcid.org/0000-0002-7014-7513">
-              <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
-            </a>
-            <a href="https://imetric.es">
-              <img src="https://img.shields.io/badge/Web-imetric.es-0091EA?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+# Arquímedes Chacón
+
+<em>Quantitative Research • Psychometrics • Statistical Software Engineering</em>
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jamovi-008080?style=flat-square&logo=databricks&logoColor=white" alt="Jamovi">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+<p>
+  <a href="https://orcid.org/0000-0002-7014-7513">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="https://imetric.es">
+    <img src="https://img.shields.io/badge/Web-imetric.es-0091EA?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -59,6 +52,9 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
+
+<details>
+<summary><strong>📸 Ver capturas de AssumptionsLab</strong></summary>
 
 <div align="center">
   <table width="100%">
@@ -104,6 +100,8 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
     </tr>
   </table>
 </div>
+
+</details>
 
 ---
 
