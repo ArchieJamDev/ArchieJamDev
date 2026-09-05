@@ -54,6 +54,10 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
 ![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/AssumptionsLab_demo.gif" width="90%" alt="AssumptionsLab demo">
+</p>
+
 <details>
 <summary><strong>📸 Ver capturas de AssumptionsLab</strong></summary>
 
