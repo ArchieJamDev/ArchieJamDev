@@ -52,6 +52,7 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
+![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
 <details>
 <summary><strong>📸 Ver capturas de AssumptionsLab</strong></summary>
@@ -119,6 +120,7 @@ I hold a Ph.D. in Psychology and am a university professor with more than 15 yea
 <div align="center">
   <p style="margin: 8px 0 0 0;">
     <img src="https://img.shields.io/badge/Focus-Psychometrics_%26_Quantitative_Research-blueviolet?style=flat-square" alt="Focus">
+    <img src="https://komarev.com/ghpvc/?username=ArchieJamDev&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile views">
   </p>
 </div>
 
