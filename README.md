@@ -117,7 +117,7 @@ My published research covers psychometric validation of behavioral measurement i
 ### FiabilityLab
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="90" alt="FiabilityLab logo">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="180" alt="FiabilityLab logo">
 </p>
 
 **FiabilityLab** is an open-source jamovi module for evaluating measurement reliability and agreement — internal consistency, inter-rater agreement, confirmatory-factor-based (SEM) reliability, and measurement invariance across groups — pairing every coefficient with its assumptions, limitations, and an explanation of what it does and does not support, rather than just reporting isolated numbers.
