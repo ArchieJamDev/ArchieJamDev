@@ -38,7 +38,10 @@ My published research covers psychometric validation of behavioral measurement i
 
 ---
 
-### AssumptionsLab
+<h2>
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-icon.png" width="60" valign="middle" alt="AssumptionsLab logo">
+  &nbsp;AssumptionsLab
+</h2>
 
 **AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
 
@@ -114,11 +117,10 @@ My published research covers psychometric validation of behavioral measurement i
 
 ---
 
-### FiabilityLab
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="180" alt="FiabilityLab logo">
-</p>
+<h2>
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="60" valign="middle" alt="FiabilityLab logo">
+  &nbsp;FiabilityLab
+</h2>
 
 **FiabilityLab** is an open-source jamovi module for evaluating measurement reliability and agreement — internal consistency, inter-rater agreement, confirmatory-factor-based (SEM) reliability, and measurement invariance across groups — pairing every coefficient with its assumptions, limitations, and an explanation of what it does and does not support, rather than just reporting isolated numbers.
 
