@@ -39,7 +39,7 @@ My published research covers psychometric validation of behavioral measurement i
 ---
 
 <h2>
-  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-icon.png" width="60" valign="middle" alt="AssumptionsLab logo">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-icon.png" width="72" valign="middle" alt="AssumptionsLab logo">
   &nbsp;AssumptionsLab
 </h2>
 
@@ -118,7 +118,7 @@ My published research covers psychometric validation of behavioral measurement i
 ---
 
 <h2>
-  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="60" valign="middle" alt="FiabilityLab logo">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="72" valign="middle" alt="FiabilityLab logo">
   &nbsp;FiabilityLab
 </h2>
 
