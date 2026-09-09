@@ -114,6 +114,36 @@ My published research covers psychometric validation of behavioral measurement i
 
 ---
 
+### FiabilityLab
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="90" alt="FiabilityLab logo">
+</p>
+
+**FiabilityLab** is an open-source jamovi module for evaluating measurement reliability and agreement — internal consistency, inter-rater agreement, confirmatory-factor-based (SEM) reliability, and measurement invariance across groups — pairing every coefficient with its assumptions, limitations, and an explanation of what it does and does not support, rather than just reporting isolated numbers.
+
+- **6 analyses**: Internal Consistency, Inter-Rater Agreement, Advanced Reliability (SEM), Measurement Invariance, plus a built-in Library and Bibliography.
+- A coefficient **discordance panel** that flags and explains disagreement between coefficients for the same design (e.g. Alpha ≫ Omega, Kappa ≪ Gwet's AC1), instead of only reporting whichever one was selected.
+- Every result reported in **English and Spanish**.
+- **36 automated tests** running in CI on every push.
+
+*FiabilityLab es un módulo de código abierto para jamovi que evalúa la confiabilidad y el acuerdo en la medición — consistencia interna, acuerdo entre jueces, confiabilidad basada en análisis factorial confirmatorio (SEM), e invariancia de medición entre grupos — acompañando cada coeficiente con sus supuestos, limitaciones y una explicación de qué respalda y qué no, en vez de solo reportar números aislados.*
+
+- *6 análisis: Consistencia Interna, Acuerdo entre Jueces, Confiabilidad Avanzada (SEM), Invariancia de Medición, además de una Biblioteca y Bibliografía integradas.*
+- *Panel de discordancia entre coeficientes que señala y explica el desacuerdo entre coeficientes para el mismo diseño (p. ej. Alfa ≫ Omega, Kappa ≪ AC1 de Gwet), en vez de solo reportar el que se seleccionó.*
+- *Cada resultado reportado en inglés y español.*
+- *36 pruebas automatizadas corriendo en CI en cada push.*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg)](https://doi.org/10.5281/zenodo.22682200)
+[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FFiabilityLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/FiabilityLab)
+![FiabilityLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&style=flat-square&color=181717&label=FiabilityLab+Views)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/FiabilityLab_demo.gif" width="90%" alt="FiabilityLab demo">
+</p>
+
+---
+
 ### 📊 Estadísticas y Métricas
 
 <div align="center">
