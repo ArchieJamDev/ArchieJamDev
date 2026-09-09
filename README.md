@@ -38,16 +38,19 @@ My published research covers psychometric validation of behavioral measurement i
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-icon.png" width="72" valign="middle" alt="AssumptionsLab logo">
-  &nbsp;AssumptionsLab
-</h2>
+<table>
+<tr>
+<td width="90" valign="top"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-icon.png" width="72" alt="AssumptionsLab logo"></td>
+<td valign="top">
+
+## AssumptionsLab
 
 *Evaluates the statistical assumptions behind group comparisons, ANOVA, the full regression family, path analysis, and time series.*
 *Every diagnostic comes paired with evidence-based methodological guidance, not just a test statistic.*
 
-*Evalúa los supuestos estadísticos detrás de comparaciones de grupos, ANOVA, la familia completa de regresión, path analysis y series de tiempo.*
-*Cada diagnóstico llega acompañado de orientación metodológica basada en evidencia, no solo un estadístico de prueba.*
+</td>
+</tr>
+</table>
 
 **AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
 
@@ -123,16 +126,19 @@ My published research covers psychometric validation of behavioral measurement i
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="72" valign="middle" alt="FiabilityLab logo">
-  &nbsp;FiabilityLab
-</h2>
+<table>
+<tr>
+<td width="90" valign="top"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="72" alt="FiabilityLab logo"></td>
+<td valign="top">
+
+## FiabilityLab
 
 *Evaluates measurement reliability and agreement — internal consistency, inter-rater agreement, SEM-based reliability, and measurement invariance.*
 *Every coefficient comes with its assumptions and limitations, plus a panel that flags disagreement between coefficients.*
 
-*Evalúa la confiabilidad y el acuerdo en la medición — consistencia interna, acuerdo entre jueces, confiabilidad basada en SEM e invariancia de medición.*
-*Cada coeficiente llega con sus supuestos y limitaciones, además de un panel que señala el desacuerdo entre coeficientes.*
+</td>
+</tr>
+</table>
 
 **FiabilityLab** is an open-source jamovi module for evaluating measurement reliability and agreement — internal consistency, inter-rater agreement, confirmatory-factor-based (SEM) reliability, and measurement invariance across groups — pairing every coefficient with its assumptions, limitations, and an explanation of what it does and does not support, rather than just reporting isolated numbers.
 
