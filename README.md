@@ -40,7 +40,7 @@ My published research covers psychometric validation of behavioral measurement i
 
 <table>
 <tr>
-<td width="130" valign="bottom"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-icon.png" width="120" alt="AssumptionsLab logo"></td>
+<td width="130" valign="bottom"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-beaker.png" width="120" alt="AssumptionsLab logo"></td>
 <td valign="top">
 
 ## AssumptionsLab
