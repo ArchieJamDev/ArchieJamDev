@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- beaker outline: left wall, rounded bottom, right wall, pour-spout flare -->
+  <path d="M 62 48 L 62 178 Q 62 192 76 192 L 152 192 Q 166 192 166 178 L 166 58 L 182 44"
+        fill="none" stroke="#034d89" stroke-width="9"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- graduation marks -->
+  <line x1="62" y1="95" x2="80" y2="95" stroke="#034d89" stroke-width="6" stroke-linecap="round"/>
+  <line x1="62" y1="122" x2="80" y2="122" stroke="#034d89" stroke-width="6" stroke-linecap="round"/>
+  <line x1="62" y1="149" x2="80" y2="149" stroke="#034d89" stroke-width="6" stroke-linecap="round"/>
+  <line x1="62" y1="176" x2="80" y2="176" stroke="#034d89" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- code symbol, floating above the binary "liquid" -->
+  <text x="122" y="70" font-family="Arial, sans-serif" font-weight="bold"
+        font-size="27" fill="#e02020" text-anchor="middle"
+        transform="rotate(-12 122 70)">&lt;/&gt;</text>
+
+  <!-- binary "liquid" filling the lower part of the beaker -->
+  <text x="122" y="90"  font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#034d89" text-anchor="middle">0 1 1 0 1</text>
+  <text x="122" y="112" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#034d89" text-anchor="middle">1 0 0 1 0</text>
+  <text x="122" y="134" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#034d89" text-anchor="middle">0 1 1 0 1</text>
+  <text x="122" y="156" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#034d89" text-anchor="middle">1 1 0 1 0</text>
+  <text x="122" y="178" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#034d89" text-anchor="middle">0 0 1 0 1</text>
+
+  <!-- checkmark, nested against the beaker's lower-right edge -->
+  <path d="M 128 174 L 156 202 L 214 130"
+        fill="none" stroke="#23b14f" stroke-width="17"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
