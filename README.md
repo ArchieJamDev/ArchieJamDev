@@ -128,7 +128,7 @@ My published research covers psychometric validation of behavioral measurement i
 
 <table>
 <tr>
-<td width="140" valign="bottom"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="130" alt="FiabilityLab logo"></td>
+<td width="152" valign="bottom"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="142" alt="FiabilityLab logo"></td>
 <td valign="top">
 
 ## FiabilityLab
