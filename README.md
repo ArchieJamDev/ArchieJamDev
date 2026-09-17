@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arquímedes Chacón
+# Arquímedes D. Chacón Ch.
 
 <em>Quantitative Research • Psychometrics • Statistical Software Engineering</em>
 
