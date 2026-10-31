@@ -174,6 +174,45 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 ---
 
+<table>
+<tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="eganetlab-logo-dark.svg">
+  <img src="eganetlab-logo.svg" alt="EGAnetLab" width="440">
+</picture>
+</td>
+</tr>
+<tr>
+<td>
+
+*Exploratory Graph Analysis for jamovi: how many dimensions a set of items measures, which items belong together, and how much that answer can be trusted.*
+*🚧 In development — every option explained, every result interpreted.*
+
+</td>
+</tr>
+</table>
+
+**EGAnetLab** is an open-source jamovi module, currently in development, that brings the network psychometrics of the [EGAnet](https://r-ega.net) R package to jamovi. It estimates the items' network of partial correlations and its communities (the dimensions), and then builds the evidence around that answer: bootstrap stability, redundancy, information-theoretic fit, hierarchical and wording-effect structures, invariance across groups and change over time.
+
+- **Available now (v0.1.0):** EGA with a choice of correlation (auto, Pearson, Spearman, cosine), network model (glasso, TMFG, BGGM) and community algorithm (Walktrap, Louvain, Leiden); item membership, network loadings, TEFI and a network plot coloured by dimension.
+- **Planned:** bootEGA with item and dimension stability, UVA, network scores, CFA, hierEGA, riEGA, dynEGA, invariance with NetworkComparisonTest (including paired pre/post samples), and qgraph/bootnet centrality.
+- Continuous, ordinal and dichotomous items, with highly customisable network plots in colourblind-safe palettes.
+- Every option with an explanatory paragraph and every result reported in **English and Spanish**.
+
+*EGAnetLab es un módulo de código abierto para jamovi, actualmente en desarrollo, que lleva el Análisis Exploratorio de Grafos del paquete de R EGAnet a jamovi. Estima la red de correlaciones parciales entre ítems y sus comunidades (las dimensiones), y luego construye la evidencia alrededor de esa respuesta: estabilidad por bootstrap, redundancia, ajuste, estructuras jerárquicas y efectos de redacción, invarianza entre grupos y cambio en el tiempo.*
+
+- *Disponible (v0.1.0): EGA con elección de correlación, modelo de red y algoritmo de comunidades; pertenencia de ítems, cargas de red, TEFI y gráfico de red coloreado por dimensión.*
+- *En camino: bootEGA, UVA, puntuaciones de red, CFA, hierEGA, riEGA, dynEGA, invarianza con NetworkComparisonTest (incluido pre/post) y centralidad con qgraph y bootnet.*
+- *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables.*
+- *Cada opción con su párrafo explicativo y cada resultado reportado en inglés y español.*
+
+![Status](https://img.shields.io/badge/status-in_development-orange?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
+![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
+
+---
+
 ### 📊 Estadísticas y Métricas
 
 <div align="center">
