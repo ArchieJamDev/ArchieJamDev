@@ -40,10 +40,15 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 <table>
 <tr>
-<td width="182" valign="bottom"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logoassumptionslab-beaker.png" width="168" alt="AssumptionsLab logo"></td>
-<td valign="top">
-
-## AssumptionsLab
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assumptionslab-logo-dark.svg">
+  <img src="assumptionslab-logo.svg" alt="AssumptionsLab" width="440">
+</picture>
+</td>
+</tr>
+<tr>
+<td>
 
 *Evaluates the statistical assumptions behind group comparisons, ANOVA, the full regression family, path analysis, and time series.*
 *Every diagnostic comes paired with evidence-based methodological guidance, not just a test statistic.*
@@ -128,10 +133,15 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 <table>
 <tr>
-<td width="213" valign="bottom"><img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/logofiabilitylab.png" width="199" alt="FiabilityLab logo"></td>
-<td valign="top">
-
-## FiabilityLab
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-logo-dark.svg">
+  <img src="fiabilitylab-logo.svg" alt="FiabilityLab" width="440">
+</picture>
+</td>
+</tr>
+<tr>
+<td>
 
 *Evaluates measurement reliability and agreement — internal consistency, inter-rater agreement, SEM-based reliability, and measurement invariance.*
 *Every coefficient comes with its assumptions and limitations, plus a panel that flags disagreement between coefficients.*
