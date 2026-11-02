@@ -60,14 +60,14 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 **AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
 
 - **10 analysis modules**, from group comparisons to the full regression family (linear, logistic, ordinal logistic, multinomial logistic) to path analysis and time series (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).
-- A built-in **methodological library** and a unified, **APA 7th-referenced bibliography**, so a diagnostic can be traced back to its source without leaving jamovi.
+- A built-in **Assumption Library**, a bilingual glossary of every assumption and test. Each method-backed result cites its source in jamovi's native reference format, and the complete **APA 7th edition bibliography** lives in the module's documentation.
 - Every result reported in **English and Spanish**.
 - **60 automated edge-case tests** running in CI on every push.
 
 *AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados.*
 
 - *10 módulos de análisis, desde comparación de grupos hasta la familia completa de regresión (lineal, logística, ordinal, multinomial), pasando por path analysis y series de tiempo (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).*
-- *Biblioteca metodológica integrada y bibliografía unificada en formato APA 7.*
+- *Biblioteca de Supuestos integrada, un glosario bilingüe de cada supuesto y prueba. Cada resultado respaldado por un método cita su fuente en el formato de referencias nativo de jamovi, y la bibliografía completa en APA 7 está en la documentación del módulo.*
 - *Cada resultado reportado en inglés y español.*
 - *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
 
