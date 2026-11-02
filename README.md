@@ -166,7 +166,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *36 pruebas automatizadas corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg)](https://doi.org/10.5281/zenodo.22682200)
-![Status](https://img.shields.io/badge/status-v1.0.0-009E73?style=flat-square)
+![Status](https://img.shields.io/badge/status-v1.5.0-009E73?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FFiabilityLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/FiabilityLab)
 ![FiabilityLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&style=flat-square&color=181717&label=FiabilityLab+Views)
 
