@@ -27,7 +27,7 @@
 
 ### About me
 
-I am a psychologist with a Ph.D. and over 20 years of experience working at the intersection of quantitative research, higher education, and data science. Throughout my academic career (as a Senior Professor at UCAB and UNIMET) and my work in organizational consulting, I have specialized in turning complex quantitative methodology into accessible, teaching-oriented tools.  My current focus merges advanced data analysis (Python, R, SQL, Power BI) with edtech and open-source statistical software development. I build jamovi modules such as AssumptionsLab and FiabilityLab, specifically created to provide pedagogical support, simplify assumption checking, and enhance methodological training for researchers and students.  
+I am a psychologist with a Ph.D. and over 20 years of experience working at the intersection of quantitative research, higher education, and data science. Throughout my academic career (as a Senior Professor at UCAB and UNIMET) and my work in organizational consulting, I have specialized in turning complex quantitative methodology into accessible, teaching-oriented tools.  My current focus merges advanced data analysis (Python, R, SQL, Power BI) with edtech and open-source statistical software development. I build jamovi modules such as AssumptionsLab, FiabilityLab and EGAnetLab, specifically created to provide pedagogical support, simplify assumption checking, and enhance methodological training for researchers and students.  
 
 I combine published scientific research with the creation of educational software and research tools designed to make data analysis intuitive, rigorous, and actionable.
 
@@ -187,29 +187,35 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <td>
 
 *Exploratory Graph Analysis for jamovi: how many dimensions a set of items measures, which items belong together, and how much that answer can be trusted.*
-*🚧 In development — every option explained, every result interpreted.*
+*Every option explained, every result interpreted — submission to the jamovi Library in preparation.*
 
 </td>
 </tr>
 </table>
 
-**EGAnetLab** is an open-source jamovi module, currently in development, that brings the network psychometrics of the [EGAnet](https://r-ega.net) R package to jamovi. It estimates the items' network of partial correlations and its communities (the dimensions), and then builds the evidence around that answer: bootstrap stability, redundancy, information-theoretic fit, hierarchical and wording-effect structures, invariance across groups and change over time.
+**EGAnetLab** is an open-source jamovi module that brings the network psychometrics of the [EGAnet](https://r-ega.net) R package to jamovi. It estimates the items' network of partial correlations and its communities (the dimensions), and then builds the evidence around that answer: bootstrap stability, redundancy, information-theoretic fit, hierarchical and wording-effect structures, invariance across groups and change over time.
 
-- **Available now (v0.1.0):** EGA with a choice of correlation (auto, Pearson, Spearman, cosine), network model (glasso, TMFG, BGGM) and community algorithm (Walktrap, Louvain, Leiden); item membership, network loadings, TEFI and a network plot coloured by dimension.
-- **Planned:** bootEGA with item and dimension stability, UVA, network scores, CFA, hierEGA, riEGA, dynEGA, invariance with NetworkComparisonTest (including paired pre/post samples), and qgraph/bootnet centrality.
+- **2 analyses, all of EGAnet's core in v0.1.0:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
+- Every report opens with a **key findings summary**: main findings, uncertainties and warnings.
+- Three bundled public datasets and **more than 100 automated tests**, including stress tests with missing data and small samples, running in CI on every push.
 - Continuous, ordinal and dichotomous items, with highly customisable network plots in colourblind-safe palettes.
 - Every option with an explanatory paragraph and every result reported in **English and Spanish**.
 
-*EGAnetLab es un módulo de código abierto para jamovi, actualmente en desarrollo, que lleva el Análisis Exploratorio de Grafos del paquete de R EGAnet a jamovi. Estima la red de correlaciones parciales entre ítems y sus comunidades (las dimensiones), y luego construye la evidencia alrededor de esa respuesta: estabilidad por bootstrap, redundancia, ajuste, estructuras jerárquicas y efectos de redacción, invarianza entre grupos y cambio en el tiempo.*
+*EGAnetLab es un módulo de código abierto para jamovi que lleva el Análisis Exploratorio de Grafos del paquete de R EGAnet a jamovi. Estima la red de correlaciones parciales entre ítems y sus comunidades (las dimensiones), y luego construye la evidencia alrededor de esa respuesta: estabilidad por bootstrap, redundancia, ajuste, estructuras jerárquicas y efectos de redacción, invarianza entre grupos y cambio en el tiempo.*
 
-- *Disponible (v0.1.0): EGA con elección de correlación, modelo de red y algoritmo de comunidades; pertenencia de ítems, cargas de red, TEFI y gráfico de red coloreado por dimensión.*
-- *En camino: bootEGA, UVA, puntuaciones de red, CFA, hierEGA, riEGA, dynEGA, invarianza con NetworkComparisonTest (incluido pre/post) y centralidad con qgraph y bootnet.*
+- *2 análisis con todo el núcleo de EGAnet en la v0.1.0: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
+- *Cada informe abre con un Resumen de hallazgos: hallazgos principales, incertidumbres y advertencias.*
+- *Tres conjuntos de datos públicos incluidos y más de 100 pruebas automatizadas, con pruebas de esfuerzo de datos ausentes y muestras pequeñas, corriendo en CI en cada push.*
 - *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables.*
 - *Cada opción con su párrafo explicativo y cada resultado reportado en inglés y español.*
 
-![Status](https://img.shields.io/badge/status-in_development-orange?style=flat-square)
+![Status](https://img.shields.io/badge/status-v0.1.0-009E73?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
 ![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/EGAnetLab_demo.gif" width="90%" alt="EGAnetLab demo">
+</p>
 
 ---
 
