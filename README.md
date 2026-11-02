@@ -210,6 +210,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cada opción con su párrafo explicativo y cada resultado reportado en inglés y español.*
 
 ![Status](https://img.shields.io/badge/status-v0.1.0-009E73?style=flat-square)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg)](https://doi.org/10.5281/zenodo.23886111)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
 ![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
 
