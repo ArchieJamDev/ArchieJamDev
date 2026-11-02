@@ -72,6 +72,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
+![Status](https://img.shields.io/badge/status-v1.6.0-009E73?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
 ![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
@@ -165,6 +166,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *36 pruebas automatizadas corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg)](https://doi.org/10.5281/zenodo.22682200)
+![Status](https://img.shields.io/badge/status-v1.0.0-009E73?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FFiabilityLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/FiabilityLab)
 ![FiabilityLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&style=flat-square&color=181717&label=FiabilityLab+Views)
 
@@ -209,8 +211,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables.*
 - *Cada opción con su párrafo explicativo y cada resultado reportado en inglés y español.*
 
-![Status](https://img.shields.io/badge/status-v0.1.0-009E73?style=flat-square)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg)](https://doi.org/10.5281/zenodo.23886111)
+![Status](https://img.shields.io/badge/status-v0.1.0-009E73?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
 ![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
 
