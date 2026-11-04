@@ -268,6 +268,10 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 ![MokkenLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&style=flat-square&color=181717&label=MokkenLab+Views)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MokkenLab_demo.gif" width="90%" alt="MokkenLab demo">
+</p>
+
 ---
 
 ### 📊 Estadísticas y Métricas
