@@ -257,7 +257,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Análisis de Mokken de dos niveles para evaluadores anidados en sujetos, en desarrollo.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
-![Status](https://img.shields.io/badge/status-in_development-D55E00?style=flat-square)
+![Status](https://img.shields.io/badge/status-in_development-A6427F?style=flat-square)
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 
 ---
