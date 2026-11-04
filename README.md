@@ -235,7 +235,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <td>
 
 *Mokken scale analysis for jamovi: do the items form a scale, which items belong together, and can the order in which they measure the trait be trusted?*
-*Every capability of mokken, every option explained — first release in preparation.*
+*Every capability of mokken, every option explained — submission to the jamovi Library in preparation.*
 
 </td>
 </tr>
@@ -263,7 +263,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), 132 pruebas automatizadas (entre ellas pruebas de regresión de una auditoría independiente) corriendo en CI en cada push, y cada número contrastado con llamadas directas a mokken, también en CI.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
-![Status](https://img.shields.io/badge/status-v0.1.0_pre--release-A6427F?style=flat-square)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23955263.svg)](https://doi.org/10.5281/zenodo.23955263)
+![Status](https://img.shields.io/badge/status-v0.1.0-A6427F?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 ![MokkenLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&style=flat-square&color=181717&label=MokkenLab+Views)
