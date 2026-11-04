@@ -248,8 +248,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - **Model Assumptions:** monotonicity, invariant item ordering, nonintersection (rest-score and P-matrix methods) and local independence (conditional association), with configurable item response function plots.
 - **Two-Level Mokken Scale Analysis** for raters nested in subjects: within, between and ratio coefficients, intraclass correlations and weights for Guttman errors.
 - Before every table, a **"How to read" guide**: what the statistic measures, what values to expect and the most common misreading.
-- **13 plots** (item response functions, item pairs, P-matrix, violation profile, *H<sub>ij</sub>* heat map and more), all driven by one shared plot-settings panel, in colourblind-safe palettes.
-- Four bundled public datasets (including the clustered-item TROG test), **112 automated tests** running in CI on every push, and every number checked against direct mokken calls.
+- **14 plots** (item response functions, item pairs, P-matrix, violation profile, *H<sub>ij</sub>* heat map and more), all driven by one shared plot-settings panel, in colourblind-safe palettes.
+- Four bundled public datasets (including the clustered-item TROG test), **132 automated tests** (including regression tests from an independent audit) running in CI on every push, and every number checked against direct mokken calls, also in CI.
 - Every option with an explanatory paragraph, a key findings summary, native citations in every method-backed table, and every result reported in **English and Spanish**.
 
 *MokkenLab es un módulo de código abierto para jamovi que lleva todas las capacidades del paquete de R mokken, de teoría de respuesta al ítem no paramétrica, a jamovi. Evalúa si un conjunto de ítems dicotómicos u ordinales ordena a las personas de forma consistente en un mismo rasgo latente, y construye la evidencia alrededor de esa respuesta: coeficientes de escalabilidad, selección automática de ítems, los supuestos que dan sentido al puntaje total y el orden invariante de los ítems.*
@@ -259,8 +259,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Supuestos del modelo: monotonicidad, orden invariante de los ítems, no intersección (métodos rest-score y matriz P) e independencia local (asociación condicional), con gráficos configurables de las funciones de respuesta.*
 - *Análisis de Mokken de dos niveles para evaluadores anidados en sujetos: coeficientes dentro, entre y su razón, correlaciones intraclase y pesos para errores de Guttman.*
 - *Antes de cada tabla, una guía de cómo leerla: qué mide el estadístico, qué valores esperar y la lectura errónea más común.*
-- *13 gráficos (funciones de respuesta, pares de ítems, matriz P, perfil de violaciones, mapa de calor de H<sub>ij</sub> y más), todos controlados desde un mismo panel de ajustes, con paletas aptas para daltonismo.*
-- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), 112 pruebas automatizadas corriendo en CI en cada push, y cada número contrastado con llamadas directas a mokken.*
+- *14 gráficos (funciones de respuesta, pares de ítems, matriz P, perfil de violaciones, mapa de calor de H<sub>ij</sub> y más), todos controlados desde un mismo panel de ajustes, con paletas aptas para daltonismo.*
+- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), 132 pruebas automatizadas (entre ellas pruebas de regresión de una auditoría independiente) corriendo en CI en cada push, y cada número contrastado con llamadas directas a mokken, también en CI.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
 ![Status](https://img.shields.io/badge/status-v0.1.0_pre--release-A6427F?style=flat-square)
