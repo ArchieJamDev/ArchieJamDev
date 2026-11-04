@@ -27,12 +27,12 @@
 
 ### About me
 
-I am a psychologist with a Ph.D. and over 20 years of experience working at the intersection of quantitative research, higher education, and data science. Throughout my academic career (as a Senior Professor at UCAB and UNIMET) and my work in organizational consulting, I have specialized in turning complex quantitative methodology into accessible, teaching-oriented tools.  My current focus merges advanced data analysis (Python, R, SQL, Power BI) with edtech and open-source statistical software development. I build jamovi modules such as AssumptionsLab, FiabilityLab and EGAnetLab, specifically created to provide pedagogical support, simplify assumption checking, and enhance methodological training for researchers and students.  
+I am a psychologist with a Ph.D. and over 20 years of experience working at the intersection of quantitative research, higher education, and data science. Throughout my academic career (as a Senior Professor at UCAB and UNIMET) and my work in organizational consulting, I have specialized in turning complex quantitative methodology into accessible, teaching-oriented tools.  My current focus merges advanced data analysis (Python, R, SQL, Power BI) with edtech and open-source statistical software development. I build jamovi modules such as AssumptionsLab, FiabilityLab and EGAnetLab, with MokkenLab in development, specifically created to provide pedagogical support, simplify assumption checking, and enhance methodological training for researchers and students.  
 
 I combine published scientific research with the creation of educational software and research tools designed to make data analysis intuitive, rigorous, and actionable.
 
 ### Sobre mí
-<i>Soy psicólogo con doctorado y más de 20 años de experiencia en la intersección entre la investigación cuantitativa, la educación superior y la ciencia de datos aplicada. A lo largo de mi trayectoria académica (como Profesor Titular en la UCAB y UNIMET) y mi práctica en consultoría organizacional, me he especializado en transformar la complejidad metodológica en herramientas accesibles y didácticas.  Mi enfoque actual combina el análisis avanzado de datos (Python, R, SQL, Power BI) con el desarrollo de software educativo y estadístico de código abierto. Soy creador de módulos para jamovi como AssumptionsLab y FiabilityLab, diseñados específicamente para brindar acompañamiento pedagógico, facilitar la verificación rigurosa de supuestos e impulsar el aprendizaje práctico de la estadística en entornos universitarios e investigadores.  
+<i>Soy psicólogo con doctorado y más de 20 años de experiencia en la intersección entre la investigación cuantitativa, la educación superior y la ciencia de datos aplicada. A lo largo de mi trayectoria académica (como Profesor Titular en la UCAB y UNIMET) y mi práctica en consultoría organizacional, me he especializado en transformar la complejidad metodológica en herramientas accesibles y didácticas.  Mi enfoque actual combina el análisis avanzado de datos (Python, R, SQL, Power BI) con el desarrollo de software educativo y estadístico de código abierto. Soy creador de módulos para jamovi como AssumptionsLab, FiabilityLab y EGAnetLab, con MokkenLab en desarrollo, diseñados específicamente para brindar acompañamiento pedagógico, facilitar la verificación rigurosa de supuestos e impulsar el aprendizaje práctico de la estadística en entornos universitarios e investigadores.  
 
 Combino la investigación científica publicada con el diseño de soluciones EdTech y herramientas de apoyo metodológico que humanizan la enseñanza de los datos y optimizan la toma de decisiones basada en evidencia. </i>
 
@@ -219,6 +219,46 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/EGAnetLab_demo.gif" width="90%" alt="EGAnetLab demo">
 </p>
+
+---
+
+<table>
+<tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="mokkenlab-logo-dark.svg">
+  <img src="mokkenlab-logo.svg" alt="MokkenLab" width="440">
+</picture>
+</td>
+</tr>
+<tr>
+<td>
+
+*Mokken scale analysis for jamovi: do the items form a scale, which items belong together, and can the order in which they measure the trait be trusted?*
+*In development — the repository will open with the first release.*
+
+</td>
+</tr>
+</table>
+
+**MokkenLab** is an open-source jamovi module, currently in development, that brings the nonparametric item response theory of the [mokken](https://CRAN.R-project.org/package=mokken) R package to jamovi. It asks whether a set of dichotomous or ordinal items orders respondents consistently on one latent trait, and builds the evidence around that answer: scalability coefficients, automated item selection, the assumptions that make sum scores meaningful, and invariant item ordering.
+
+- **Mokken Scale Analysis:** scalability coefficients for item pairs, items and the whole scale (*H<sub>ij</sub>*, *H<sub>i</sub>*, *H*) with standard errors, Wald-based or range-preserving confidence intervals and tests against a lower bound, by group; reliability (MS, alpha, lambda-2, LCRC), Guttman-error outliers, bounds for dichotomous items and norm statistics.
+- **Automated Item Selection (AISP):** Mokken's procedure or a genetic algorithm, at one lower bound or across a sequence of them.
+- **Model Assumptions:** monotonicity, invariant item ordering, nonintersection (rest-score and P-matrix methods) and local independence (conditional association), with configurable item response function plots.
+- **Two-Level Mokken Scale Analysis** for raters nested in subjects, in progress.
+- Every option with an explanatory paragraph, a key findings summary, native citations in every method-backed table, and every result reported in **English and Spanish**.
+
+*MokkenLab es un módulo de código abierto para jamovi, actualmente en desarrollo, que lleva la teoría de respuesta al ítem no paramétrica del paquete de R mokken a jamovi. Evalúa si un conjunto de ítems dicotómicos u ordinales ordena a las personas de forma consistente en un mismo rasgo latente, y construye la evidencia alrededor de esa respuesta: coeficientes de escalabilidad, selección automática de ítems, los supuestos que dan sentido al puntaje total y el orden invariante de los ítems.*
+
+- *Análisis de escalas de Mokken: coeficientes de escalabilidad de pares de ítems, ítems y escala (H<sub>ij</sub>, H<sub>i</sub>, H) con errores estándar, intervalos de confianza de Wald o que respetan el rango y pruebas frente a un límite inferior, por grupo; fiabilidad (MS, alfa, lambda-2, LCRC), casos atípicos por errores de Guttman, límites para ítems dicotómicos y normas.*
+- *Selección automática de ítems (AISP): procedimiento de Mokken o algoritmo genético, con uno o varios límites inferiores.*
+- *Supuestos del modelo: monotonicidad, orden invariante de los ítems, no intersección (métodos rest-score y matriz P) e independencia local (asociación condicional), con gráficos configurables de las funciones de respuesta.*
+- *Análisis de Mokken de dos niveles para evaluadores anidados en sujetos, en desarrollo.*
+- *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
+
+![Status](https://img.shields.io/badge/status-in_development-D55E00?style=flat-square)
+![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 
 ---
 
