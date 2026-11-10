@@ -27,12 +27,12 @@
 
 ### About me
 
-I am a psychologist with a Ph.D. and over 20 years of experience working at the intersection of quantitative research, higher education, and data science. Throughout my academic career (as a Senior Professor at UCAB and UNIMET) and my work in organizational consulting, I have specialized in turning complex quantitative methodology into accessible, teaching-oriented tools.  My current focus merges advanced data analysis (Python, R, SQL, Power BI) with edtech and open-source statistical software development. I build jamovi modules such as AssumptionsLab, FiabilityLab, EGAnetLab and MokkenLab, specifically created to provide pedagogical support, simplify assumption checking, and enhance methodological training for researchers and students.  
+I am a psychologist with a Ph.D. and over 20 years of experience working at the intersection of quantitative research, higher education, and data science. Throughout my academic career (as a Senior Professor at UCAB and UNIMET) and my work in organizational consulting, I have specialized in turning complex quantitative methodology into accessible, teaching-oriented tools.  My current focus merges advanced data analysis (Python, R, SQL, Power BI) with edtech and open-source statistical software development. I build jamovi modules such as AssumptionsLab, FiabilityLab, EGAnetLab and MokkenLab (with PLSsemLab in development), specifically created to provide pedagogical support, simplify assumption checking, and enhance methodological training for researchers and students.  
 
 I combine published scientific research with the creation of educational software and research tools designed to make data analysis intuitive, rigorous, and actionable.
 
 ### Sobre mí
-<i>Soy psicólogo con doctorado y más de 20 años de experiencia en la intersección entre la investigación cuantitativa, la educación superior y la ciencia de datos aplicada. A lo largo de mi trayectoria académica (como Profesor Titular en la UCAB y UNIMET) y mi práctica en consultoría organizacional, me he especializado en transformar la complejidad metodológica en herramientas accesibles y didácticas.  Mi enfoque actual combina el análisis avanzado de datos (Python, R, SQL, Power BI) con el desarrollo de software educativo y estadístico de código abierto. Soy creador de módulos para jamovi como AssumptionsLab, FiabilityLab, EGAnetLab y MokkenLab, diseñados específicamente para brindar acompañamiento pedagógico, facilitar la verificación rigurosa de supuestos e impulsar el aprendizaje práctico de la estadística en entornos universitarios e investigadores.  
+<i>Soy psicólogo con doctorado y más de 20 años de experiencia en la intersección entre la investigación cuantitativa, la educación superior y la ciencia de datos aplicada. A lo largo de mi trayectoria académica (como Profesor Titular en la UCAB y UNIMET) y mi práctica en consultoría organizacional, me he especializado en transformar la complejidad metodológica en herramientas accesibles y didácticas.  Mi enfoque actual combina el análisis avanzado de datos (Python, R, SQL, Power BI) con el desarrollo de software educativo y estadístico de código abierto. Soy creador de módulos para jamovi como AssumptionsLab, FiabilityLab, EGAnetLab y MokkenLab (y PLSsemLab, en desarrollo), diseñados específicamente para brindar acompañamiento pedagógico, facilitar la verificación rigurosa de supuestos e impulsar el aprendizaje práctico de la estadística en entornos universitarios e investigadores.  
 
 Combino la investigación científica publicada con el diseño de soluciones EdTech y herramientas de apoyo metodológico que humanizan la enseñanza de los datos y optimizan la toma de decisiones basada en evidencia. </i>
 
@@ -272,6 +272,48 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MokkenLab_demo.gif" width="90%" alt="MokkenLab demo">
 </p>
+
+---
+
+<table>
+<tr>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plssemlab-logo-dark.svg">
+  <img src="plssemlab-logo.svg" alt="PLSsemLab" width="440">
+</picture>
+</td>
+</tr>
+<tr>
+<td>
+
+*Partial least squares structural equation modeling for jamovi: build the model with boxes, evaluate the measurement and structural models, and understand every decision.*
+*🚧 In development — design stage; not yet available in jamovi.*
+
+</td>
+</tr>
+</table>
+
+**PLSsemLab** is an open-source jamovi module, now in development, that will bring PLS-SEM (composite-based structural equation modeling) to jamovi, whose current SEM modules, built on lavaan, do not estimate PLS. It uses the [cSEM](https://CRAN.R-project.org/package=cSEM) R package, the same engine as JASP's PLS-SEM, and its first version is designed to fix the shortcomings that JASP users have reported: missing HTMT and VIF intervals, errors with higher-order constructs and interactions, slow or failing bootstraps, uninformative syntax errors, and an overall fit test that does not apply to PLS.
+
+- **Planned for version 1:** reflective and formative constructs; PLS and consistent PLS; reliability (alpha, rho_A, rho_C), AVE, HTMT and VIF with bootstrap intervals; paths, R², f² and indirect effects; a bootstrap test of overall model fit (SRMR, d_G, d_L); second-order constructs and two-way interactions with simple slopes; prediction (PLSpredict, CVPAT); importance-performance map analysis; multigroup comparison with MICOM.
+- **No syntax to type:** constructs are built by dragging indicators into named boxes, as in jamovi's own CFA, and the model is checked before estimation with messages that name the construct or indicator at fault.
+- **Teaching, not only computing:** "How to read" guides, an explanation of every choice, applied interpretation and a key findings summary, as in the rest of the suite — deterministic and cited, with no AI key needed.
+- **Every decision tested first:** six reproducible experiments with cSEM, one per shortcoming, already confirm that each can be solved; they run on GitHub Actions.
+- Every result in **English and Spanish**, following jamovi's language.
+
+*PLSsemLab es un módulo de código abierto para jamovi, en desarrollo, que llevará el PLS-SEM (modelos de ecuaciones estructurales basados en compuestos) a jamovi, cuyos módulos de SEM actuales, basados en lavaan, no estiman PLS. Usa el paquete de R cSEM, el mismo motor del PLS-SEM de JASP, y su primera versión está diseñada para corregir las deficiencias que han reportado los usuarios de JASP: falta de intervalos para HTMT y VIF, errores con constructos de orden superior e interacciones, bootstraps lentos o que fallan, mensajes de error poco claros y una prueba de ajuste global que no corresponde a PLS.*
+
+- *Previsto para la versión 1: constructos reflectivos y formativos; PLS y PLS consistente; fiabilidad (alfa, rho_A, rho_C), AVE, HTMT y VIF con intervalos bootstrap; rutas, R², f² y efectos indirectos; prueba bootstrap del ajuste global (SRMR, d_G, d_L); constructos de segundo orden e interacciones de dos vías con pendientes simples; predicción (PLSpredict, CVPAT); mapa de importancia-desempeño (IPMA); comparación multigrupo con MICOM.*
+- *Sin escribir sintaxis: los constructos se arman arrastrando indicadores a cajas con nombre, como en el AFC de jamovi, y el modelo se revisa antes de estimar, con mensajes que nombran el constructo o indicador con problemas.*
+- *Enseñar, no solo calcular: guías de "Cómo leer", explicación de cada elección, interpretación aplicada y Resumen de hallazgos, como en el resto de la suite; determinista y citado, sin necesidad de una clave de IA.*
+- *Cada decisión probada primero: seis experimentos reproducibles con cSEM, uno por deficiencia, ya confirman que cada una tiene solución; corren en GitHub Actions.*
+- *Cada resultado en inglés y español, siguiendo el idioma de jamovi.*
+
+![Status](https://img.shields.io/badge/status-in%20development-4B47B5?style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FPLSsemLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/PLSsemLab)
+![cSEM](https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-181717?style=flat-square)
+![PLSsemLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&style=flat-square&color=181717&label=PLSsemLab+Views)
 
 ---
 
