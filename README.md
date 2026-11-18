@@ -42,8 +42,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <tr>
 <td>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/logo/assumptionslab-logo-dark.svg">
-    <img src="docs/logo/assumptionslab-logo.svg" alt="AssumptionsLab" width="560">
+    <source media="(prefers-color-scheme: dark)" srcset="AssumptionsLab/docs/logo/assumptionslab-logo-dark.svg">
+    <img src="AssumptionsLab/docs/logo/assumptionslab-logo.svg" alt="AssumptionsLab" width="560">
 </picture>
 </td>
 </tr>
