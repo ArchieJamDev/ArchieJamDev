@@ -315,7 +315,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cuatro conjuntos de datos incluidos con fuente y licencia, entre ellos unos datos simulados para aprender en los que cada opción tiene algo que mostrar; cada resultado en inglés y español, siguiendo el idioma de jamovi.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg)](https://doi.org/10.5281/zenodo.24259622)
-[![Status](https://img.shields.io/badge/status-v1.0.0-4B47B5?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.0.0)
+[![Status](https://img.shields.io/badge/status-v1.0.1-4B47B5?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FPLSsemLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/PLSsemLab)
 ![cSEM](https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-181717?style=flat-square)
 ![PLSsemLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&style=flat-square&color=181717&label=PLSsemLab+Views)
