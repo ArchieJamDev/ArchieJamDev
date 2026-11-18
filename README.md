@@ -235,7 +235,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <td>
 
 *Mokken scale analysis for jamovi: do the items form a scale, which items belong together, and can the order in which they measure the trait be trusted?*
-*Every capability of mokken, every option explained — submission to the jamovi Library in preparation.*
+*Every capability of mokken, every option explained — available in the jamovi Library.*
 
 </td>
 </tr>
@@ -248,8 +248,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - **Model Assumptions:** monotonicity, invariant item ordering, nonintersection (rest-score and P-matrix methods) and local independence (conditional association), with configurable item response function plots.
 - **Two-Level Mokken Scale Analysis** for raters nested in subjects: within, between and ratio coefficients, intraclass correlations and weights for Guttman errors.
 - Before every table, a **"How to read" guide**: what the statistic measures, what values to expect and the most common misreading.
-- **14 plots** (item response functions, item pairs, P-matrix, violation profile, *H<sub>ij</sub>* heat map and more), all driven by one shared plot-settings panel, in colourblind-safe palettes.
-- Four bundled public datasets (including the clustered-item TROG test), **163 automated tests** (including regression tests from an independent audit) running in CI on every push, and every number checked against direct mokken calls, also in CI; [v1.0.0](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.0) addresses every point of jamovi's module review.
+- **14 plots** (item response functions, item pairs, P-matrix, violation profile, *H<sub>ij</sub>* heat map and more), all driven by one shared plot-settings panel, following jamovi's theme and colour palette.
+- Four bundled public datasets (including the clustered-item TROG test), **more than 500 automated tests** (including regression tests for every audit finding) running in CI on Linux, macOS and Windows on every push, and every number checked against direct mokken calls, also in CI; [v1.0.2](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2) addresses every point of jamovi's audits, and MokkenLab is in the **jamovi Library** since 1.0.1.
 - Every option with an explanatory paragraph, a key findings summary, native citations in every method-backed table, and every result reported in **English and Spanish**.
 
 *MokkenLab es un módulo de código abierto para jamovi que lleva todas las capacidades del paquete de R mokken, de teoría de respuesta al ítem no paramétrica, a jamovi. Evalúa si un conjunto de ítems dicotómicos u ordinales ordena a las personas de forma consistente en un mismo rasgo latente, y construye la evidencia alrededor de esa respuesta: coeficientes de escalabilidad, selección automática de ítems, los supuestos que dan sentido al puntaje total y el orden invariante de los ítems.*
@@ -259,12 +259,13 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Supuestos del modelo: monotonicidad, orden invariante de los ítems, no intersección (métodos rest-score y matriz P) e independencia local (asociación condicional), con gráficos configurables de las funciones de respuesta.*
 - *Análisis de Mokken de dos niveles para evaluadores anidados en sujetos: coeficientes dentro, entre y su razón, correlaciones intraclase y pesos para errores de Guttman.*
 - *Antes de cada tabla, una guía de cómo leerla: qué mide el estadístico, qué valores esperar y la lectura errónea más común.*
-- *14 gráficos (funciones de respuesta, pares de ítems, matriz P, perfil de violaciones, mapa de calor de H<sub>ij</sub> y más), todos controlados desde un mismo panel de ajustes, con paletas aptas para daltonismo.*
-- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), 163 pruebas automatizadas (entre ellas pruebas de regresión de una auditoría independiente) corriendo en CI en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; la v1.0.0 atiende todas las observaciones de la revisión de jamovi.*
+- *14 gráficos (funciones de respuesta, pares de ítems, matriz P, perfil de violaciones, mapa de calor de H<sub>ij</sub> y más), todos controlados desde un mismo panel de ajustes, siguiendo el tema y la paleta de colores de jamovi.*
+- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), más de 500 pruebas automatizadas (entre ellas pruebas de regresión para cada hallazgo de las auditorías) corriendo en CI en Linux, macOS y Windows en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; la v1.0.2 atiende todas las observaciones de las auditorías de jamovi, y MokkenLab está en la biblioteca de jamovi desde la 1.0.1.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24119065.svg)](https://doi.org/10.5281/zenodo.24119065)
-[![Status](https://img.shields.io/badge/status-v1.0.0-A6427F?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24339275.svg)](https://doi.org/10.5281/zenodo.24339275)
+[![Status](https://img.shields.io/badge/status-v1.0.2-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2)
+![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 ![MokkenLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&style=flat-square&color=181717&label=MokkenLab+Views)
