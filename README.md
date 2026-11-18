@@ -43,7 +43,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assumptionslab-logo-dark.svg">
-  <img src="assumptionslab-logo.svg" alt="FiabilityLab" width="440">
+  <img src="assumptionslab-logo.svg" alt="FiabilityLab" width="600">
 </picture>
 </td>
 </tr>
