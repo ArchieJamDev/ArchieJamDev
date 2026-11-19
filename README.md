@@ -22,40 +22,15 @@
 </p>
 
 <p>
-  <a href="https://github.com/ArchieJamDev/AssumptionsLab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assumptionslab-icon-dark.svg">
-      <img src="assumptionslab-icon.svg" alt="AssumptionsLab" title="AssumptionsLab" height="48">
-    </picture>
-  </a>
+  <a href="https://github.com/ArchieJamDev/AssumptionsLab"><picture><source media="(prefers-color-scheme: dark)" srcset="assumptionslab-icon-dark.svg"><img src="assumptionslab-icon.svg" alt="AssumptionsLab" title="AssumptionsLab" height="48"></picture></a>
   &nbsp;
-  <a href="https://github.com/ArchieJamDev/FiabilityLab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-icon-dark.svg">
-      <img src="fiabilitylab-icon.svg" alt="FiabilityLab" title="FiabilityLab" height="48">
-    </picture>
-  </a>
+  <a href="https://github.com/ArchieJamDev/FiabilityLab"><picture><source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-icon-dark.svg"><img src="fiabilitylab-icon.svg" alt="FiabilityLab" title="FiabilityLab" height="48"></picture></a>
   &nbsp;
-  <a href="https://github.com/ArchieJamDev/EGAnetLab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="eganetlab-icon-dark.svg">
-      <img src="eganetlab-icon.svg" alt="EGAnetLab" title="EGAnetLab" height="48">
-    </picture>
-  </a>
+  <a href="https://github.com/ArchieJamDev/EGAnetLab"><picture><source media="(prefers-color-scheme: dark)" srcset="eganetlab-icon-dark.svg"><img src="eganetlab-icon.svg" alt="EGAnetLab" title="EGAnetLab" height="48"></picture></a>
   &nbsp;
-  <a href="https://github.com/ArchieJamDev/MokkenLab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="mokkenlab-icon-dark.svg">
-      <img src="mokkenlab-icon.svg" alt="MokkenLab" title="MokkenLab" height="48">
-    </picture>
-  </a>
+  <a href="https://github.com/ArchieJamDev/MokkenLab"><picture><source media="(prefers-color-scheme: dark)" srcset="mokkenlab-icon-dark.svg"><img src="mokkenlab-icon.svg" alt="MokkenLab" title="MokkenLab" height="48"></picture></a>
   &nbsp;
-  <a href="https://github.com/ArchieJamDev/PLSsemLab">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="plssemlab-icon-dark.svg">
-      <img src="plssemlab-icon.svg" alt="PLSsemLab" title="PLSsemLab" height="48">
-    </picture>
-  </a>
+  <a href="https://github.com/ArchieJamDev/PLSsemLab"><picture><source media="(prefers-color-scheme: dark)" srcset="plssemlab-icon-dark.svg"><img src="plssemlab-icon.svg" alt="PLSsemLab" title="PLSsemLab" height="48"></picture></a>
 </p>
 
 </div>
