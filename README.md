@@ -184,9 +184,12 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <img src="eganetlab-logo.svg" alt="EGAnetLab" width="440">
 </picture>
 </td>
+<td align="right" valign="bottom">
+<img src="jamovi-published.svg" alt="Published in the jamovi library" height="20">
+</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 
 *Exploratory Graph Analysis for jamovi: how many dimensions a set of items measures, which items belong together, and how much that answer can be trusted.*
 *Every option explained, every result interpreted — submission to the jamovi Library in preparation.*
@@ -230,9 +233,12 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <img src="mokkenlab-logo.svg" alt="MokkenLab" width="440">
 </picture>
 </td>
+<td align="right" valign="bottom">
+<img src="jamovi-published.svg" alt="Published in the jamovi library" height="20">
+</td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 
 *Mokken scale analysis for jamovi: do the items form a scale, which items belong together, and can the order in which they measure the trait be trusted?*
 *Every capability of mokken, every option explained — available in the jamovi Library.*
