@@ -43,7 +43,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assumptionslab-logo-dark.svg">
-  <img src="assumptionslab-logo.svg" alt="FiabilityLab" width="650">
+  <img src="assumptionslab-logo.svg" alt="AssumptionsLab" width="650">
 </picture>
 </td>
 </tr>
@@ -72,7 +72,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
-![Status](https://img.shields.io/badge/status-v1.6.0-009E73?style=flat-square)
+[![Status](https://img.shields.io/badge/status-v1.6.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab/releases/tag/v1.6.0)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
 ![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
@@ -166,7 +166,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *36 pruebas automatizadas corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg)](https://doi.org/10.5281/zenodo.22682200)
-![Status](https://img.shields.io/badge/status-v1.5.0-009E73?style=flat-square)
+[![Status](https://img.shields.io/badge/status-v1.5.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/FiabilityLab)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FFiabilityLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/FiabilityLab)
 ![FiabilityLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&style=flat-square&color=181717&label=FiabilityLab+Views)
 
@@ -183,7 +183,6 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <source media="(prefers-color-scheme: dark)" srcset="eganetlab-logo-dark.svg">
   <img src="eganetlab-logo.svg" alt="EGAnetLab" width="440">
 </picture>
-<div align="right"><img src="jamovi-published.svg" alt="Published in the jamovi library" height="20"></div>
 </td>
 </tr>
 <tr>
@@ -198,7 +197,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 **EGAnetLab** is an open-source jamovi module that brings the network psychometrics of the [EGAnet](https://r-ega.net) R package to jamovi. It estimates the items' network of partial correlations and its communities (the dimensions), and then builds the evidence around that answer: bootstrap stability, redundancy, information-theoretic fit, hierarchical and wording-effect structures, invariance across groups and change over time.
 
-- **2 analyses, all of EGAnet's core; [v1.0.2](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.2) addresses every point of jamovi's audits and is available in the jamovi Library:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
+- **2 analyses, all of EGAnet's core; [v1.0.3](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.3) addresses every point of jamovi's audits; EGAnetLab is in the jamovi Library since 1.0.2:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
 - Every report opens with a **key findings summary**: main findings, uncertainties and warnings.
 - Three bundled public datasets and **more than 100 automated tests**, including stress tests with missing data and small samples, running in CI on every push.
 - Continuous, ordinal and dichotomous items, with highly customisable network plots that follow jamovi's theme and colour palette.
@@ -206,15 +205,17 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 *EGAnetLab es un módulo de código abierto para jamovi que lleva el Análisis Exploratorio de Grafos del paquete de R EGAnet a jamovi. Estima la red de correlaciones parciales entre ítems y sus comunidades (las dimensiones), y luego construye la evidencia alrededor de esa respuesta: estabilidad por bootstrap, redundancia, ajuste, estructuras jerárquicas y efectos de redacción, invarianza entre grupos y cambio en el tiempo.*
 
-- *2 análisis con todo el núcleo de EGAnet; la v1.0.2 atiende todas las observaciones de las auditorías de jamovi y está disponible en la biblioteca de jamovi: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
+- *2 análisis con todo el núcleo de EGAnet; la v1.0.3 atiende todas las observaciones de las auditorías de jamovi, y EGAnetLab está en la biblioteca de jamovi desde la 1.0.2: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
 - *Cada informe abre con un Resumen de hallazgos: hallazgos principales, incertidumbres y advertencias.*
 - *Tres conjuntos de datos públicos incluidos y más de 100 pruebas automatizadas, con pruebas de esfuerzo de datos ausentes y muestras pequeñas, corriendo en CI en cada push.*
 - *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables.*
 - *Cada opción con su párrafo explicativo, y un informe en español o inglés que sigue el idioma configurado en jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24338257.svg)](https://doi.org/10.5281/zenodo.24338257)
-[![Status](https://img.shields.io/badge/status-v1.0.2-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.2)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24378817.svg)](https://doi.org/10.5281/zenodo.24378817)
+[![Status](https://img.shields.io/badge/status-v1.0.3-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.3)
+[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://www.jamovi.org/library.html)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
+![EGAnet](https://img.shields.io/badge/EGAnet-%E2%89%A5%202.4.0-181717?style=flat-square)
 ![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
 
 <p align="center">
@@ -230,7 +231,6 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <source media="(prefers-color-scheme: dark)" srcset="mokkenlab-logo-dark.svg">
   <img src="mokkenlab-logo.svg" alt="MokkenLab" width="440">
 </picture>
-<div align="right"><img src="jamovi-published.svg" alt="Published in the jamovi library" height="20"></div>
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24339275.svg)](https://doi.org/10.5281/zenodo.24339275)
 [![Status](https://img.shields.io/badge/status-v1.0.2-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2)
-![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)
+[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://www.jamovi.org/library.html)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 ![MokkenLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&style=flat-square&color=181717&label=MokkenLab+Views)
@@ -316,7 +316,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Enseñar, no solo calcular: guías de "Cómo leer", explicación de cada elección, interpretación aplicada, Resumen de hallazgos y el código R equivalente, como en el resto de la suite; determinista y citado, sin necesidad de una clave de IA.*
 - *Cuatro conjuntos de datos incluidos con fuente y licencia, entre ellos unos datos simulados para aprender en los que cada opción tiene algo que mostrar; cada resultado en inglés y español, siguiendo el idioma de jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg)](https://doi.org/10.5281/zenodo.24259622)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24341176.svg)](https://doi.org/10.5281/zenodo.24341176)
 [![Status](https://img.shields.io/badge/status-v1.0.1-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.0.1)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FPLSsemLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/PLSsemLab)
 ![cSEM](https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-181717?style=flat-square)
