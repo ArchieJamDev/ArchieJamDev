@@ -183,13 +183,11 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <source media="(prefers-color-scheme: dark)" srcset="eganetlab-logo-dark.svg">
   <img src="eganetlab-logo.svg" alt="EGAnetLab" width="440">
 </picture>
-</td>
-<td align="right" valign="bottom">
-<img src="jamovi-published.svg" alt="Published in the jamovi library" height="20">
+<div align="right"><img src="jamovi-published.svg" alt="Published in the jamovi library" height="20"></div>
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 
 *Exploratory Graph Analysis for jamovi: how many dimensions a set of items measures, which items belong together, and how much that answer can be trusted.*
 *Every option explained, every result interpreted — submission to the jamovi Library in preparation.*
@@ -232,13 +230,11 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <source media="(prefers-color-scheme: dark)" srcset="mokkenlab-logo-dark.svg">
   <img src="mokkenlab-logo.svg" alt="MokkenLab" width="440">
 </picture>
-</td>
-<td align="right" valign="bottom">
-<img src="jamovi-published.svg" alt="Published in the jamovi library" height="20">
+<div align="right"><img src="jamovi-published.svg" alt="Published in the jamovi library" height="20"></div>
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 
 *Mokken scale analysis for jamovi: do the items form a scale, which items belong together, and can the order in which they measure the trait be trusted?*
 *Every capability of mokken, every option explained — available in the jamovi Library.*
