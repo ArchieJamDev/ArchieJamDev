@@ -136,8 +136,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <tr>
 <td>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-logo-dark.svg">
-  <img src="fiabilitylab-logo.svg" alt="FiabilityLab" width="440">
+  <source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-logo-dark.svg?v=2">
+  <img src="fiabilitylab-logo.svg?v=2" alt="FiabilityLab" width="440">
 </picture>
 </td>
 </tr>
