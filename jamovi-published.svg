@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="20" role="img" aria-label="jamovi: published">
+  <title>Published in the jamovi library</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-opacity=".12"/></linearGradient>
+  <clipPath id="r"><rect width="132" height="20" rx="3"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="62" height="20" fill="#2F5D8C"/>
+    <rect x="62" width="70" height="20" fill="#2E9E5B"/>
+    <rect width="132" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" transform="translate(7 5)">
+    <rect x="0" y="6" width="2.4" height="4" rx=".6"/><rect x="3.4" y="3" width="2.4" height="7" rx=".6"/><rect x="6.8" y="0" width="2.4" height="10" rx=".6"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">
+    <text x="21" y="14">jamovi</text>
+    <text x="70" y="14" textLength="54" lengthAdjust="spacingAndGlyphs">published</text>
+  </g>
+</svg>
