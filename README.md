@@ -24,36 +24,36 @@
 <p>
   <a href="https://github.com/ArchieJamDev/AssumptionsLab">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assumptionslab-logo-dark.svg">
-      <img src="assumptionslab-logo.svg" alt="AssumptionsLab" height="40">
+      <source media="(prefers-color-scheme: dark)" srcset="assumptionslab-icon-dark.svg">
+      <img src="assumptionslab-icon.svg" alt="AssumptionsLab" title="AssumptionsLab" height="48">
     </picture>
   </a>
   &nbsp;
   <a href="https://github.com/ArchieJamDev/FiabilityLab">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-logo-dark.svg?v=2">
-      <img src="fiabilitylab-logo.svg?v=2" alt="FiabilityLab" height="40">
+      <source media="(prefers-color-scheme: dark)" srcset="fiabilitylab-icon-dark.svg">
+      <img src="fiabilitylab-icon.svg" alt="FiabilityLab" title="FiabilityLab" height="48">
     </picture>
   </a>
   &nbsp;
   <a href="https://github.com/ArchieJamDev/EGAnetLab">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="eganetlab-logo-dark.svg">
-      <img src="eganetlab-logo.svg" alt="EGAnetLab" height="40">
+      <source media="(prefers-color-scheme: dark)" srcset="eganetlab-icon-dark.svg">
+      <img src="eganetlab-icon.svg" alt="EGAnetLab" title="EGAnetLab" height="48">
     </picture>
   </a>
   &nbsp;
   <a href="https://github.com/ArchieJamDev/MokkenLab">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="mokkenlab-logo-dark.svg">
-      <img src="mokkenlab-logo.svg" alt="MokkenLab" height="40">
+      <source media="(prefers-color-scheme: dark)" srcset="mokkenlab-icon-dark.svg">
+      <img src="mokkenlab-icon.svg" alt="MokkenLab" title="MokkenLab" height="48">
     </picture>
   </a>
   &nbsp;
   <a href="https://github.com/ArchieJamDev/PLSsemLab">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="plssemlab-logo-dark.svg">
-      <img src="plssemlab-logo.svg" alt="PLSsemLab" height="40">
+      <source media="(prefers-color-scheme: dark)" srcset="plssemlab-icon-dark.svg">
+      <img src="plssemlab-icon.svg" alt="PLSsemLab" title="PLSsemLab" height="48">
     </picture>
   </a>
 </p>
