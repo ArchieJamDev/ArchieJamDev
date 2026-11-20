@@ -16,14 +16,7 @@
     <img src="https://img.shields.io/badge/Web-imetric.es-0091EA?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
 </p>
 
-<p>
-  <a href="https://orcid.org/0000-0002-7014-7513">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
-  <a href="https://imetric.es">
-    <img src="https://img.shields.io/badge/Web-imetric.es-0091EA?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
-  </a>
-</p>
+
 
 <p>
   <a href="https://github.com/ArchieJamDev/AssumptionsLab"><picture><source media="(prefers-color-scheme: dark)" srcset="assumptionslab-icon-dark.svg"><img src="assumptionslab-icon.svg" alt="AssumptionsLab" title="AssumptionsLab" height="48"></picture></a>
