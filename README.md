@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Jamovi-008080?style=flat-square&logo=databricks&logoColor=white" alt="Jamovi">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+ <a href="https://orcid.org/0000-0002-7014-7513">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
+   <a href="https://imetric.es">
+    <img src="https://img.shields.io/badge/Web-imetric.es-0091EA?style=flat-square&logo=google-chrome&logoColor=white" alt="Web">
 </p>
 
 <p>
