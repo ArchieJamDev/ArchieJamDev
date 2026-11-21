@@ -275,7 +275,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24339275.svg)](https://doi.org/10.5281/zenodo.24339275)
-[![Status](https://img.shields.io/badge/status-v1.0.2-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2)
+[![Status](https://img.shields.io/badge/status-v1.0.3-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2)
 [![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://www.jamovi.org/library.html)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
