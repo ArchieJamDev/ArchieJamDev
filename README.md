@@ -81,7 +81,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
-[![Status](https://img.shields.io/badge/status-v1.7.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab)
+[![Status](https://img.shields.io/badge/status-v1.7.1-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
 ![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
