@@ -80,10 +80,14 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cada resultado reportado en inglés y español, con una casilla de Explicaciones para un informe compacto.*
 - *Más de 80 pruebas automatizadas (casos límite y cambio de idioma) corriendo en CI en cada push, más validación Monte Carlo de las reglas de decisión del módulo. La versión 1.8.0 está en revisión para la biblioteca de jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
-[![Status](https://img.shields.io/badge/status-v1.8.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab/releases/tag/v1.8.0)
-[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
-![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
+<p>
+  <a href="https://github.com/ArchieJamDev/AssumptionsLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+  <a href="https://github.com/ArchieJamDev/AssumptionsLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/AssumptionsLab?label=release&color=4A86E0" alt="Release"></a>
+  <a href="https://doi.org/10.5281/zenodo.22209135"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg" alt="DOI (all versions, resolves to the latest)"></a>
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%2028.3.0-4A86E0" alt="jamovi ≥ 28.3.0">
+  <a href="https://github.com/ArchieJamDev/AssumptionsLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/AssumptionsLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
+  <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&label=views&color=lightgrey&style=flat" alt="Views">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/AssumptionsLab_demo.gif" width="90%" alt="AssumptionsLab demo">
@@ -174,10 +178,14 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cada resultado reportado en inglés y español.*
 - *36 pruebas automatizadas corriendo en CI en cada push.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg)](https://doi.org/10.5281/zenodo.22682200)
-[![Status](https://img.shields.io/badge/status-v1.5.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/FiabilityLab)
-[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FFiabilityLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/FiabilityLab)
-![FiabilityLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&style=flat-square&color=181717&label=FiabilityLab+Views)
+<p>
+  <a href="https://github.com/ArchieJamDev/FiabilityLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+  <a href="https://github.com/ArchieJamDev/FiabilityLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/FiabilityLab?label=release&color=4A86E0" alt="Release"></a>
+  <a href="https://doi.org/10.5281/zenodo.22682200"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg" alt="DOI (all versions, resolves to the latest)"></a>
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <a href="https://github.com/ArchieJamDev/FiabilityLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/FiabilityLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
+  <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&label=views&color=lightgrey&style=flat" alt="Views">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/FiabilityLab_demo.gif" width="90%" alt="FiabilityLab demo">
@@ -220,12 +228,16 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables que siguen el tema y la paleta de colores de jamovi.*
 - *Cada opción con su párrafo explicativo, y un informe en español o inglés que sigue el idioma configurado en jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg)](https://doi.org/10.5281/zenodo.23886111)
-[![Status](https://img.shields.io/badge/status-v1.0.7-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7)
-[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab#installation)
-[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
-![EGAnet](https://img.shields.io/badge/EGAnet-%E2%89%A5%202.3.0-181717?style=flat-square)
-![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
+<p>
+  <a href="https://github.com/ArchieJamDev/EGAnetLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+  <a href="https://github.com/ArchieJamDev/EGAnetLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/EGAnetLab?label=release&color=4A86E0" alt="Release"></a>
+  <a href="https://doi.org/10.5281/zenodo.23886111"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg" alt="DOI (all versions, resolves to the latest)"></a>
+  <img src="https://img.shields.io/badge/EGAnet-%E2%89%A5%202.3.0-E6AC40" alt="EGAnet ≥ 2.3.0">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <img src="https://img.shields.io/badge/jamovi%20Library-available-6B9DE8" alt="Available in the jamovi Library">
+  <a href="https://github.com/ArchieJamDev/EGAnetLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/EGAnetLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
+  <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&label=views&color=lightgrey&style=flat" alt="Views">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/EGAnetLab_demo.gif" width="90%" alt="EGAnetLab demo">
@@ -274,12 +286,16 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), más de 500 pruebas automatizadas (entre ellas pruebas de regresión para cada hallazgo de las auditorías) corriendo en CI en Linux, macOS y Windows en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; versión actual [v1.0.4](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4), que atiende todas las observaciones de las auditorías de jamovi; MokkenLab está en la biblioteca de jamovi desde la 1.0.1, y la 1.0.4 ya se envió para actualizarla.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23955263.svg)](https://doi.org/10.5281/zenodo.23955263)
-[![Status](https://img.shields.io/badge/status-v1.0.4-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4)
-[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab#installation)
-[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
-![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
-![MokkenLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&style=flat-square&color=181717&label=MokkenLab+Views)
+<p>
+  <a href="https://github.com/ArchieJamDev/MokkenLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+  <a href="https://github.com/ArchieJamDev/MokkenLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/MokkenLab?label=release&color=4A86E0" alt="Release"></a>
+  <a href="https://doi.org/10.5281/zenodo.23955263"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23955263.svg" alt="DOI (all versions, resolves to the latest)"></a>
+  <img src="https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-E6AC40" alt="mokken ≥ 3.1.2">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <img src="https://img.shields.io/badge/jamovi%20Library-available-6B9DE8" alt="Available in the jamovi Library">
+  <a href="https://github.com/ArchieJamDev/MokkenLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/MokkenLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
+  <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&label=views&color=lightgrey&style=flat" alt="Views">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/MokkenLab_demo.gif" width="90%" alt="MokkenLab demo">
@@ -329,11 +345,15 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Enseñar, no solo calcular: guías de "Cómo leer", explicación de cada elección, interpretación aplicada, Resumen de hallazgos y el código R equivalente, como en el resto de la suite; determinista y citado, sin necesidad de una clave de IA.*
 - *Cuatro conjuntos de datos incluidos con fuente y licencia, entre ellos unos datos simulados para aprender en los que cada opción tiene algo que mostrar; cada resultado en inglés y español, siguiendo el idioma de jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg)](https://doi.org/10.5281/zenodo.24259622)
-[![Status](https://img.shields.io/badge/status-v1.2.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.2.0)
-[![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FPLSsemLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/PLSsemLab)
-![cSEM](https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-181717?style=flat-square)
-![PLSsemLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&style=flat-square&color=181717&label=PLSsemLab+Views)
+<p>
+  <a href="https://github.com/ArchieJamDev/PLSsemLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
+  <a href="https://github.com/ArchieJamDev/PLSsemLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/PLSsemLab?label=release&color=4A86E0" alt="Release"></a>
+  <a href="https://doi.org/10.5281/zenodo.24259622"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg" alt="DOI (all versions, resolves to the latest)"></a>
+  <img src="https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-E6AC40" alt="cSEM ≥ 0.7.1">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <a href="https://github.com/ArchieJamDev/PLSsemLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/PLSsemLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
+  <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&label=views&color=lightgrey&style=flat" alt="Views">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/PLSsemLab_demo.gif" width="90%" alt="PLSsemLab demo">
