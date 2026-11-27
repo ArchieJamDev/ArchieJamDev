@@ -305,7 +305,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 </tr>
 </table>
 
-**PLSsemLab** is an open-source jamovi module that brings PLS-SEM (composite-based structural equation modeling) to jamovi, whose SEM modules built on lavaan do not estimate PLS. It uses the [cSEM](https://CRAN.R-project.org/package=cSEM) R package and covers, in one analysis, everything a complete PLS-SEM report needs, from the measurement model to multigroup comparisons.
+**PLSsemLab** is an open-source jamovi module that brings PLS-SEM (composite-based structural equation modeling) to jamovi. It uses the [cSEM](https://CRAN.R-project.org/package=cSEM) R package and covers, in one analysis, everything a complete PLS-SEM report needs, from the measurement model to multigroup comparisons.
 
 - **No syntax to type:** constructs are built by dragging indicators into named boxes, as in jamovi's own CFA, and the model is checked before estimation with messages that name the construct or indicator at fault.
 - **Measurement model:** PLS and consistent PLS; reliability (alpha, rho_A, rho_C), AVE, HTMT and HTMT2 with bootstrap intervals, Fornell-Larcker, indicator VIF; continuous or ordinal indicators.
@@ -317,7 +317,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - **Teaching, not only computing:** "How to read" guides, an explanation of every choice, applied interpretation, a key findings summary and the equivalent R code, as in the rest of the suite — deterministic and cited, with no AI key needed.
 - Four bundled datasets with source and licence, including simulated learning data in which every option has something to show; every result in **English and Spanish**, following jamovi's language.
 
-*PLSsemLab es un módulo de código abierto para jamovi que lleva el PLS-SEM (modelos de ecuaciones estructurales basados en compuestos) a jamovi, cuyos módulos de SEM basados en lavaan no estiman PLS. Usa el paquete de R cSEM y reúne, en un solo análisis, todo lo que necesita un informe PLS-SEM completo, desde el modelo de medida hasta la comparación entre grupos.*
+*PLSsemLab es un módulo de código abierto para jamovi que lleva el PLS-SEM (modelos de ecuaciones estructurales basados en compuestos) a jamovi. Usa el paquete de R cSEM y reúne, en un solo análisis, todo lo que necesita un informe PLS-SEM completo, desde el modelo de medida hasta la comparación entre grupos.*
 
 - *Sin escribir sintaxis: los constructos se arman arrastrando indicadores a cajas con nombre, como en el AFC de jamovi, y el modelo se revisa antes de estimar, con mensajes que nombran el constructo o indicador con problemas.*
 - *Modelo de medida: PLS y PLS consistente; fiabilidad (alfa, rho_A, rho_C), AVE, HTMT y HTMT2 con intervalos bootstrap, Fornell-Larcker, VIF de indicadores; indicadores continuos u ordinales.*
