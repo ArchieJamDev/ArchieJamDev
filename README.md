@@ -312,7 +312,8 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - **Structural model:** paths, R², f², VIF, direct, indirect and total effects, with a fast blockwise bootstrap (cancellable, visible seed); path diagram with moderations drawn on the path they moderate.
 - **Complex models:** higher-order constructs (disjoint two-stage approach) and two-way interactions with simple slopes, floodlight and Johnson-Neyman.
 - **Fit, prediction and more:** bootstrap test of overall model fit (SRMR, d_G, d_L) with decision and reading; PLSpredict, CVPAT, mediation, importance-performance map (IPMA); multigroup analysis with MICOM, PLS-MGA and permutation tests.
-- **New in 1.1.0:** necessary condition analysis (NCA) combined with PLS-SEM (CE-FDH and CR-FDH effect sizes with permutation tests, bottlenecks, ceiling plots and the must-have / should-have reading of each path) and measurement invariance of the reflective constructs as common factors (configural, metric and scalar multigroup CFA with lavaan, next to MICOM).
+- **New in 1.2.0:** weighting approaches (PLS-PM, GSCA, SUMCORR, MAXVAR, PCA or unit weights), jackknife standard errors, Mardia's multivariate normality test, construct scores saved to the data, and a PLSpredict benchmark and a model comparison against a competing model.
+- **Added in 1.1.0:** necessary condition analysis (NCA) combined with PLS-SEM (CE-FDH and CR-FDH effect sizes with permutation tests, bottlenecks, ceiling plots and the must-have / should-have reading of each path) and measurement invariance of the reflective constructs as common factors (configural, metric and scalar multigroup CFA with lavaan, next to MICOM).
 - **Teaching, not only computing:** "How to read" guides, an explanation of every choice, applied interpretation, a key findings summary and the equivalent R code, as in the rest of the suite — deterministic and cited, with no AI key needed.
 - Four bundled datasets with source and licence, including simulated learning data in which every option has something to show; every result in **English and Spanish**, following jamovi's language.
 
@@ -323,15 +324,57 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Modelo estructural: rutas, R², f², VIF, efectos directos, indirectos y totales, con un bootstrap rápido por bloques (cancelable, semilla visible); diagrama de rutas con las moderaciones dibujadas sobre la ruta que moderan.*
 - *Modelos complejos: constructos de orden superior (enfoque disjunto en dos etapas) e interacciones de dos vías con pendientes simples, floodlight y Johnson-Neyman.*
 - *Ajuste, predicción y más: prueba bootstrap del ajuste global (SRMR, d_G, d_L) con decisión y lectura; PLSpredict, CVPAT, mediación, mapa de importancia-desempeño (IPMA); análisis multigrupo con MICOM, PLS-MGA y pruebas de permutación.*
-- *Nuevo en la 1.1.0: análisis de condición necesaria (NCA) combinado con PLS-SEM (tamaños del efecto CE-FDH y CR-FDH con pruebas de permutación, cuellos de botella, gráficos de techo y la lectura imprescindible / conveniente de cada ruta) e invarianza de medida de los constructos reflectivos como factores comunes (AFC multigrupo configural, métrico y escalar con lavaan, junto a MICOM).*
+- *Nuevo en la 1.2.0: enfoques de ponderación (PLS-PM, GSCA, SUMCORR, MAXVAR, PCA o pesos unitarios), errores estándar por jackknife, prueba de normalidad multivariada de Mardia, puntuaciones guardadas en los datos, y una referencia para PLSpredict y una comparación con un modelo competidor.*
+- *Añadido en la 1.1.0: análisis de condición necesaria (NCA) combinado con PLS-SEM (tamaños del efecto CE-FDH y CR-FDH con pruebas de permutación, cuellos de botella, gráficos de techo y la lectura imprescindible / conveniente de cada ruta) e invarianza de medida de los constructos reflectivos como factores comunes (AFC multigrupo configural, métrico y escalar con lavaan, junto a MICOM).*
 - *Enseñar, no solo calcular: guías de "Cómo leer", explicación de cada elección, interpretación aplicada, Resumen de hallazgos y el código R equivalente, como en el resto de la suite; determinista y citado, sin necesidad de una clave de IA.*
 - *Cuatro conjuntos de datos incluidos con fuente y licencia, entre ellos unos datos simulados para aprender en los que cada opción tiene algo que mostrar; cada resultado en inglés y español, siguiendo el idioma de jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24471195.svg)](https://doi.org/10.5281/zenodo.24471195)
-[![Status](https://img.shields.io/badge/status-v1.1.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.1.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg)](https://doi.org/10.5281/zenodo.24259622)
+[![Status](https://img.shields.io/badge/status-v1.2.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.2.0)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FPLSsemLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/PLSsemLab)
 ![cSEM](https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-181717?style=flat-square)
 ![PLSsemLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&style=flat-square&color=181717&label=PLSsemLab+Views)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/PLSsemLab_demo.gif" width="90%" alt="PLSsemLab demo">
+</p>
+
+<details>
+<summary><strong>📸 Ver capturas de PLSsemLab</strong></summary>
+
+<div align="center">
+  <table width="100%" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-model-boxes.png" width="75%" loading="lazy" alt="Modelo por cajas">
+        <p><em>Modelo armado con cajas, sin sintaxis</em></p>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-measurement.png" width="75%" loading="lazy" alt="Constructos de orden superior">
+        <p><em>Constructos de orden superior y modelo de medida</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-estimation.png" width="75%" loading="lazy" alt="Estimación y predicción">
+        <p><em>Estimación, bootstrap, ajuste y predicción</em></p>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-structural.png" width="75%" loading="lazy" alt="Modelo estructural, IPMA y NCA">
+        <p><em>Mapa de importancia-desempeño, NCA y multigrupo</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-diagram.png" width="75%" loading="lazy" alt="Diagrama de rutas">
+        <p><em>Diagrama de rutas y cargas</em></p>
+      </td>
+      <td style="border: none;"></td>
+    </tr>
+  </table>
+</div>
+
+</details>
 
 ---
 
