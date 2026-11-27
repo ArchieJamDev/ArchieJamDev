@@ -206,25 +206,25 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 **EGAnetLab** is an open-source jamovi module that brings the network psychometrics of the [EGAnet](https://r-ega.net) R package to jamovi. It estimates the items' network of partial correlations and its communities (the dimensions), and then builds the evidence around that answer: bootstrap stability, redundancy, information-theoretic fit, hierarchical and wording-effect structures, invariance across groups and change over time.
 
-- **2 analyses, all of EGAnet's core; [v1.0.3](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.3) addresses every point of jamovi's audits; EGAnetLab is in the jamovi Library since 1.0.2:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
+- **2 analyses, all of EGAnet's core; current version [v1.0.7](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7), in the jamovi Library since 1.0.2:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
 - Every report opens with a **key findings summary**: main findings, uncertainties and warnings.
-- Three bundled public datasets and **more than 100 automated tests**, including stress tests with missing data and small samples, running in CI on every push.
+- Three bundled public datasets and **more than 100 automated tests**, including stress tests with missing data and small samples, plus a validation of every procedure against direct EGAnet calls, running in CI on every push.
 - Continuous, ordinal and dichotomous items, with highly customisable network plots that follow jamovi's theme and colour palette.
 - Every option with an explanatory paragraph, and a report in **English or Spanish** that follows the language set in jamovi.
 
 *EGAnetLab es un módulo de código abierto para jamovi que lleva el Análisis Exploratorio de Grafos del paquete de R EGAnet a jamovi. Estima la red de correlaciones parciales entre ítems y sus comunidades (las dimensiones), y luego construye la evidencia alrededor de esa respuesta: estabilidad por bootstrap, redundancia, ajuste, estructuras jerárquicas y efectos de redacción, invarianza entre grupos y cambio en el tiempo.*
 
-- *2 análisis con todo el núcleo de EGAnet; la v1.0.3 atiende todas las observaciones de las auditorías de jamovi, y EGAnetLab está en la biblioteca de jamovi desde la 1.0.2: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
+- *2 análisis con todo el núcleo de EGAnet; versión actual [v1.0.7](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7), en la biblioteca de jamovi desde la 1.0.2: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
 - *Cada informe abre con un Resumen de hallazgos: hallazgos principales, incertidumbres y advertencias.*
-- *Tres conjuntos de datos públicos incluidos y más de 100 pruebas automatizadas, con pruebas de esfuerzo de datos ausentes y muestras pequeñas, corriendo en CI en cada push.*
-- *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables.*
+- *Tres conjuntos de datos públicos incluidos y más de 100 pruebas automatizadas, con pruebas de esfuerzo de datos ausentes y muestras pequeñas, y una validación de cada procedimiento frente a llamadas directas a EGAnet, corriendo en CI en cada push.*
+- *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables que siguen el tema y la paleta de colores de jamovi.*
 - *Cada opción con su párrafo explicativo, y un informe en español o inglés que sigue el idioma configurado en jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24378817.svg)](https://doi.org/10.5281/zenodo.24378817)
-[![Status](https://img.shields.io/badge/status-v1.0.3-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.3)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg)](https://doi.org/10.5281/zenodo.23886111)
+[![Status](https://img.shields.io/badge/status-v1.0.7-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7)
 [![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://www.jamovi.org/library.html)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
-![EGAnet](https://img.shields.io/badge/EGAnet-%E2%89%A5%202.4.0-181717?style=flat-square)
+![EGAnet](https://img.shields.io/badge/EGAnet-%E2%89%A5%202.3.0-181717?style=flat-square)
 ![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
 
 <p align="center">
