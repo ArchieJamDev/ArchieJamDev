@@ -84,7 +84,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <a href="https://github.com/ArchieJamDev/AssumptionsLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
   <a href="https://github.com/ArchieJamDev/AssumptionsLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/AssumptionsLab?label=release&color=4A86E0" alt="Release"></a>
   <a href="https://doi.org/10.5281/zenodo.22209135"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg" alt="DOI (all versions, resolves to the latest)"></a>
-  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%2028.3.0-4A86E0" alt="jamovi ≥ 28.3.0">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%202.7.41-4A86E0" alt="jamovi ≥ 2.7.41">
   <a href="https://github.com/ArchieJamDev/AssumptionsLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/AssumptionsLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
   <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&label=views&color=lightgrey&style=flat" alt="Views">
 </p>
@@ -182,7 +182,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <a href="https://github.com/ArchieJamDev/FiabilityLab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
   <a href="https://github.com/ArchieJamDev/FiabilityLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/FiabilityLab?label=release&color=4A86E0" alt="Release"></a>
   <a href="https://doi.org/10.5281/zenodo.22682200"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22682200.svg" alt="DOI (all versions, resolves to the latest)"></a>
-  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%202.7.41-4A86E0" alt="jamovi ≥ 2.7.41">
   <a href="https://github.com/ArchieJamDev/FiabilityLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/FiabilityLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
   <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-FiabilityLab&label=views&color=lightgrey&style=flat" alt="Views">
 </p>
@@ -233,7 +233,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <a href="https://github.com/ArchieJamDev/EGAnetLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/EGAnetLab?label=release&color=4A86E0" alt="Release"></a>
   <a href="https://doi.org/10.5281/zenodo.23886111"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg" alt="DOI (all versions, resolves to the latest)"></a>
   <img src="https://img.shields.io/badge/EGAnet-%E2%89%A5%202.3.0-E6AC40" alt="EGAnet ≥ 2.3.0">
-  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%202.7.41-4A86E0" alt="jamovi ≥ 2.7.41">
   <img src="https://img.shields.io/badge/jamovi%20Library-available-6B9DE8" alt="Available in the jamovi Library">
   <a href="https://github.com/ArchieJamDev/EGAnetLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/EGAnetLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
   <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&label=views&color=lightgrey&style=flat" alt="Views">
@@ -291,7 +291,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <a href="https://github.com/ArchieJamDev/MokkenLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/MokkenLab?label=release&color=4A86E0" alt="Release"></a>
   <a href="https://doi.org/10.5281/zenodo.23955263"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23955263.svg" alt="DOI (all versions, resolves to the latest)"></a>
   <img src="https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-E6AC40" alt="mokken ≥ 3.1.2">
-  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%202.7.41-4A86E0" alt="jamovi ≥ 2.7.41">
   <img src="https://img.shields.io/badge/jamovi%20Library-available-6B9DE8" alt="Available in the jamovi Library">
   <a href="https://github.com/ArchieJamDev/MokkenLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/MokkenLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
   <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&label=views&color=lightgrey&style=flat" alt="Views">
@@ -350,7 +350,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
   <a href="https://github.com/ArchieJamDev/PLSsemLab/releases"><img src="https://img.shields.io/github/v/release/ArchieJamDev/PLSsemLab?label=release&color=4A86E0" alt="Release"></a>
   <a href="https://doi.org/10.5281/zenodo.24259622"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg" alt="DOI (all versions, resolves to the latest)"></a>
   <img src="https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-E6AC40" alt="cSEM ≥ 0.7.1">
-  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%201.0.8-4A86E0" alt="jamovi ≥ 1.0.8">
+  <img src="https://img.shields.io/badge/jamovi-%E2%89%A5%202.7.41-4A86E0" alt="jamovi ≥ 2.7.41">
   <a href="https://github.com/ArchieJamDev/PLSsemLab/actions/workflows/jamovi-check.yml"><img src="https://github.com/ArchieJamDev/PLSsemLab/actions/workflows/jamovi-check.yml/badge.svg" alt="CI"></a>
   <img src="https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&label=views&color=lightgrey&style=flat" alt="Views">
 </p>
