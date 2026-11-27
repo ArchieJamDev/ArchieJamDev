@@ -59,29 +59,29 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <tr>
 <td>
 
-*Evaluates the statistical assumptions behind group comparisons, ANOVA, the full regression family, path analysis, and time series.*
+*Evaluates the statistical assumptions behind group comparisons, ANOVA, the full regression family (now including Poisson and negative binomial), path analysis, and time series.*
 *Every diagnostic comes paired with evidence-based methodological guidance, not just a test statistic.*
 
 </td>
 </tr>
 </table>
 
-**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
+**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, Poisson and negative binomial regression for counts and rates, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
 
-- **10 analysis modules**, from group comparisons to the full regression family (linear, logistic, ordinal logistic, multinomial logistic) to path analysis and time series (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).
-- A built-in **Assumption Library**, a bilingual glossary of every assumption and test. Each method-backed result cites its source in jamovi's native reference format, and the complete **APA 7th edition bibliography** lives in the module's documentation.
-- Every result reported in **English and Spanish**.
-- **60 automated edge-case tests** running in CI on every push.
+- **10 analyses plus the Assumption Library**, from group comparisons to the full regression family (linear, logistic, ordinal logistic, multinomial logistic, and Poisson/negative binomial with overdispersion, excess-zero and quantile-residual checks) to path analysis and time series (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).
+- A built-in **Assumption Library**, a bilingual glossary of every assumption and test, built from jamovi's native text and tables. Each method-backed result cites its source in jamovi's native reference format, and the complete **APA 7th edition bibliography** lives in the module's documentation.
+- Every result reported in **English and Spanish**, with an **Explanations** switch for a compact report.
+- **More than 80 automated tests** (edge cases and language switching) running in CI on every push, plus Monte Carlo validation of the module's decision rules. Version 1.8.0 is under review for the jamovi Library.
 
-*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados.*
+*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, regresión de Poisson y binomial negativa para recuentos y tasas, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados.*
 
-- *10 módulos de análisis, desde comparación de grupos hasta la familia completa de regresión (lineal, logística, ordinal, multinomial), pasando por path analysis y series de tiempo (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).*
-- *Biblioteca de Supuestos integrada, un glosario bilingüe de cada supuesto y prueba. Cada resultado respaldado por un método cita su fuente en el formato de referencias nativo de jamovi, y la bibliografía completa en APA 7 está en la documentación del módulo.*
-- *Cada resultado reportado en inglés y español.*
-- *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
+- *10 análisis más la Biblioteca de Supuestos, desde comparación de grupos hasta la familia completa de regresión (lineal, logística, ordinal, multinomial, y Poisson/binomial negativa con sobredispersión, exceso de ceros y residuos cuantílicos), pasando por path analysis y series de tiempo (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).*
+- *Biblioteca de Supuestos integrada, un glosario bilingüe de cada supuesto y prueba, construido con texto y tablas nativos de jamovi. Cada resultado respaldado por un método cita su fuente en el formato de referencias nativo de jamovi, y la bibliografía completa en APA 7 está en la documentación del módulo.*
+- *Cada resultado reportado en inglés y español, con una casilla de Explicaciones para un informe compacto.*
+- *Más de 80 pruebas automatizadas (casos límite y cambio de idioma) corriendo en CI en cada push, más validación Monte Carlo de las reglas de decisión del módulo. La versión 1.8.0 está en revisión para la biblioteca de jamovi.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
-[![Status](https://img.shields.io/badge/status-v1.7.1-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab)
+[![Status](https://img.shields.io/badge/status-v1.8.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab/releases/tag/v1.8.0)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
 ![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
