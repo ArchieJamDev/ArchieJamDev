@@ -222,7 +222,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg)](https://doi.org/10.5281/zenodo.23886111)
 [![Status](https://img.shields.io/badge/status-v1.0.7-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7)
-[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://www.jamovi.org/library.html)
+[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab#installation)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
 ![EGAnet](https://img.shields.io/badge/EGAnet-%E2%89%A5%202.3.0-181717?style=flat-square)
 ![EGAnetLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-EGAnetLab&style=flat-square&color=181717&label=EGAnetLab+Views)
@@ -260,7 +260,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - **Two-Level Mokken Scale Analysis** for raters nested in subjects: within, between and ratio coefficients, intraclass correlations and weights for Guttman errors.
 - Before every table, a **"How to read" guide**: what the statistic measures, what values to expect and the most common misreading.
 - **14 plots** (item response functions, item pairs, P-matrix, violation profile, *H<sub>ij</sub>* heat map and more), all driven by one shared plot-settings panel, following jamovi's theme and colour palette.
-- Four bundled public datasets (including the clustered-item TROG test), **more than 500 automated tests** (including regression tests for every audit finding) running in CI on Linux, macOS and Windows on every push, and every number checked against direct mokken calls, also in CI; [v1.0.2](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2) addresses every point of jamovi's audits, and MokkenLab is in the **jamovi Library** since 1.0.1.
+- Four bundled public datasets (including the clustered-item TROG test), **more than 500 automated tests** (including regression tests for every audit finding) running in CI on Linux, macOS and Windows on every push, and every number checked against direct mokken calls, also in CI; current version [v1.0.4](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4), which addresses every point of jamovi's audits; MokkenLab is in the **jamovi Library** since 1.0.1, and 1.0.4 has been submitted to update it.
 - Every option with an explanatory paragraph, a key findings summary, native citations in every method-backed table, and every result reported in **English and Spanish**.
 
 *MokkenLab es un módulo de código abierto para jamovi que lleva todas las capacidades del paquete de R mokken, de teoría de respuesta al ítem no paramétrica, a jamovi. Evalúa si un conjunto de ítems dicotómicos u ordinales ordena a las personas de forma consistente en un mismo rasgo latente, y construye la evidencia alrededor de esa respuesta: coeficientes de escalabilidad, selección automática de ítems, los supuestos que dan sentido al puntaje total y el orden invariante de los ítems.*
@@ -271,12 +271,12 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Análisis de Mokken de dos niveles para evaluadores anidados en sujetos: coeficientes dentro, entre y su razón, correlaciones intraclase y pesos para errores de Guttman.*
 - *Antes de cada tabla, una guía de cómo leerla: qué mide el estadístico, qué valores esperar y la lectura errónea más común.*
 - *14 gráficos (funciones de respuesta, pares de ítems, matriz P, perfil de violaciones, mapa de calor de H<sub>ij</sub> y más), todos controlados desde un mismo panel de ajustes, siguiendo el tema y la paleta de colores de jamovi.*
-- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), más de 500 pruebas automatizadas (entre ellas pruebas de regresión para cada hallazgo de las auditorías) corriendo en CI en Linux, macOS y Windows en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; la v1.0.2 atiende todas las observaciones de las auditorías de jamovi, y MokkenLab está en la biblioteca de jamovi desde la 1.0.1.*
+- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), más de 500 pruebas automatizadas (entre ellas pruebas de regresión para cada hallazgo de las auditorías) corriendo en CI en Linux, macOS y Windows en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; versión actual [v1.0.4](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4), que atiende todas las observaciones de las auditorías de jamovi; MokkenLab está en la biblioteca de jamovi desde la 1.0.1, y la 1.0.4 ya se envió para actualizarla.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24339275.svg)](https://doi.org/10.5281/zenodo.24339275)
-[![Status](https://img.shields.io/badge/status-v1.0.3-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.2)
-[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://www.jamovi.org/library.html)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23955263.svg)](https://doi.org/10.5281/zenodo.23955263)
+[![Status](https://img.shields.io/badge/status-v1.0.4-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4)
+[![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab#installation)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
 ![mokken](https://img.shields.io/badge/mokken-%E2%89%A5%203.1.2-181717?style=flat-square)
 ![MokkenLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-MokkenLab&style=flat-square&color=181717&label=MokkenLab+Views)
