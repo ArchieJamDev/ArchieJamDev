@@ -59,29 +59,29 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 <tr>
 <td>
 
-*Evaluates the statistical assumptions behind group comparisons, ANOVA, the full regression family, path analysis, and time series.*
+*Evaluates the statistical assumptions behind group comparisons, ANOVA, the full regression family (now including Poisson and negative binomial), path analysis, and time series.*
 *Every diagnostic comes paired with evidence-based methodological guidance, not just a test statistic.*
 
 </td>
 </tr>
 </table>
 
-**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
+**AssumptionsLab** is an open-source jamovi module that evaluates the statistical assumptions behind common analytical techniques — independent and related-groups comparisons, ANOVA/ANCOVA, linear/logistic/ordinal/multinomial regression, Poisson and negative binomial regression for counts and rates, path analysis, and time series — pairing every diagnostic with evidence-based methodological guidance and interpretation rather than just reporting isolated test statistics.
 
-- **10 analysis modules**, from group comparisons to the full regression family (linear, logistic, ordinal logistic, multinomial logistic) to path analysis and time series (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).
-- A built-in **Assumption Library**, a bilingual glossary of every assumption and test. Each method-backed result cites its source in jamovi's native reference format, and the complete **APA 7th edition bibliography** lives in the module's documentation.
-- Every result reported in **English and Spanish**.
-- **60 automated edge-case tests** running in CI on every push.
+- **10 analyses plus the Assumption Library**, from group comparisons to the full regression family (linear, logistic, ordinal logistic, multinomial logistic, and Poisson/negative binomial with overdispersion, excess-zero and quantile-residual checks) to path analysis and time series (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).
+- A built-in **Assumption Library**, a bilingual glossary of every assumption and test, built from jamovi's native text and tables. Each method-backed result cites its source in jamovi's native reference format, and the complete **APA 7th edition bibliography** lives in the module's documentation.
+- Every result reported in **English and Spanish**, with an **Explanations** switch for a compact report.
+- **More than 80 automated tests** (edge cases and language switching) running in CI on every push, plus Monte Carlo validation of the module's decision rules. Version 1.8.0 is under review for the jamovi Library.
 
-*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados.*
+*AssumptionsLab es un módulo de código abierto para jamovi que evalúa los supuestos estadísticos detrás de las técnicas analíticas más comunes — comparación de grupos independientes y relacionados, ANOVA/ANCOVA, regresión lineal/logística/ordinal/multinomial, regresión de Poisson y binomial negativa para recuentos y tasas, path analysis y series de tiempo — acompañando cada diagnóstico con orientación metodológica basada en evidencia e interpretación, en vez de solo reportar estadísticos aislados.*
 
-- *10 módulos de análisis, desde comparación de grupos hasta la familia completa de regresión (lineal, logística, ordinal, multinomial), pasando por path analysis y series de tiempo (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).*
-- *Biblioteca de Supuestos integrada, un glosario bilingüe de cada supuesto y prueba. Cada resultado respaldado por un método cita su fuente en el formato de referencias nativo de jamovi, y la bibliografía completa en APA 7 está en la documentación del módulo.*
-- *Cada resultado reportado en inglés y español.*
-- *60 pruebas automatizadas de casos límite corriendo en CI en cada push.*
+- *10 análisis más la Biblioteca de Supuestos, desde comparación de grupos hasta la familia completa de regresión (lineal, logística, ordinal, multinomial, y Poisson/binomial negativa con sobredispersión, exceso de ceros y residuos cuantílicos), pasando por path analysis y series de tiempo (ARIMA/SARIMA/ETS/VAR/VECM/GARCH).*
+- *Biblioteca de Supuestos integrada, un glosario bilingüe de cada supuesto y prueba, construido con texto y tablas nativos de jamovi. Cada resultado respaldado por un método cita su fuente en el formato de referencias nativo de jamovi, y la bibliografía completa en APA 7 está en la documentación del módulo.*
+- *Cada resultado reportado en inglés y español, con una casilla de Explicaciones para un informe compacto.*
+- *Más de 80 pruebas automatizadas (casos límite y cambio de idioma) corriendo en CI en cada push, más validación Monte Carlo de las reglas de decisión del módulo. La versión 1.8.0 está en revisión para la biblioteca de jamovi.*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22209135.svg)](https://doi.org/10.5281/zenodo.22209135)
-[![Status](https://img.shields.io/badge/status-v1.7.1-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab)
+[![Status](https://img.shields.io/badge/status-v1.8.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/AssumptionsLab/releases/tag/v1.8.0)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FAssumptionsLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/AssumptionsLab)
 ![AssumptionsLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-AssumptionsLab&style=flat-square&color=181717&label=AssumptionsLab+Views)
 
@@ -206,22 +206,22 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 
 **EGAnetLab** is an open-source jamovi module that brings the network psychometrics of the [EGAnet](https://r-ega.net) R package to jamovi. It estimates the items' network of partial correlations and its communities (the dimensions), and then builds the evidence around that answer: bootstrap stability, redundancy, information-theoretic fit, hierarchical and wording-effect structures, invariance across groups and change over time.
 
-- **2 analyses, all of EGAnet's core; EGAnetLab is in the jamovi Library since 1.0.2, and [v1.0.6](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.6), the latest release, addresses every point of jamovi's audits:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
+- **2 analyses, all of EGAnet's core; current version [v1.0.7](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7), in the jamovi Library since 1.0.2:** EGA with a choice of correlation, network model and community algorithm; bootEGA with item and dimension stability; UVA redundancy; network loadings and scores; TEFI comparison of competing structures; CFA, also on random exploration/confirmation subsamples; hierEGA and riEGA; invariance and NetworkComparisonTest (including paired pre/post samples); qgraph/bootnet centrality and edge accuracy; and Dynamic EGA for intensive longitudinal data.
 - Every report opens with a **key findings summary**: main findings, uncertainties and warnings.
-- Three bundled public datasets and **more than 100 automated tests**, including stress tests with missing data and small samples, running in CI on every push, and every procedure checked against direct EGAnet calls, also in CI.
+- Three bundled public datasets and **more than 100 automated tests**, including stress tests with missing data and small samples, plus a validation of every procedure against direct EGAnet calls, running in CI on every push.
 - Continuous, ordinal and dichotomous items, with highly customisable network plots that follow jamovi's theme and colour palette.
 - Every option with an explanatory paragraph, and a report in **English or Spanish** that follows the language set in jamovi.
 
 *EGAnetLab es un módulo de código abierto para jamovi que lleva el Análisis Exploratorio de Grafos del paquete de R EGAnet a jamovi. Estima la red de correlaciones parciales entre ítems y sus comunidades (las dimensiones), y luego construye la evidencia alrededor de esa respuesta: estabilidad por bootstrap, redundancia, ajuste, estructuras jerárquicas y efectos de redacción, invarianza entre grupos y cambio en el tiempo.*
 
-- *2 análisis con todo el núcleo de EGAnet; EGAnetLab está en la biblioteca de jamovi desde la 1.0.2, y la v1.0.6, la versión más reciente, atiende todas las observaciones de las auditorías de jamovi: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
+- *2 análisis con todo el núcleo de EGAnet; versión actual [v1.0.7](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7), en la biblioteca de jamovi desde la 1.0.2: EGA con elección de correlación, modelo de red y algoritmo de comunidades; bootEGA con estabilidad de ítems y dimensiones; redundancia con UVA; cargas y puntuaciones de red; comparación de estructuras con TEFI; AFC, también con SubMuestras de Exploración y Confirmación; hierEGA y riEGA; invarianza y NetworkComparisonTest (incluido pre/post); centralidad y precisión de aristas con qgraph y bootnet; y EGA dinámico para datos longitudinales intensivos.*
 - *Cada informe abre con un Resumen de hallazgos: hallazgos principales, incertidumbres y advertencias.*
-- *Tres conjuntos de datos públicos incluidos y más de 100 pruebas automatizadas, con pruebas de esfuerzo de datos ausentes y muestras pequeñas, corriendo en CI en cada push, y cada procedimiento contrastado con llamadas directas a EGAnet, también en CI.*
-- *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables.*
+- *Tres conjuntos de datos públicos incluidos y más de 100 pruebas automatizadas, con pruebas de esfuerzo de datos ausentes y muestras pequeñas, y una validación de cada procedimiento frente a llamadas directas a EGAnet, corriendo en CI en cada push.*
+- *Ítems continuos, ordinales y dicotómicos, con gráficos de red altamente configurables que siguen el tema y la paleta de colores de jamovi.*
 - *Cada opción con su párrafo explicativo, y un informe en español o inglés que sigue el idioma configurado en jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24457873.svg)](https://doi.org/10.5281/zenodo.24457873)
-[![Status](https://img.shields.io/badge/status-v1.0.6-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.6)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23886111.svg)](https://doi.org/10.5281/zenodo.23886111)
+[![Status](https://img.shields.io/badge/status-v1.0.7-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab/releases/tag/v1.0.7)
 [![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://github.com/ArchieJamDev/EGAnetLab#installation)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FEGAnetLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/EGAnetLab)
 ![EGAnet](https://img.shields.io/badge/EGAnet-%E2%89%A5%202.3.0-181717?style=flat-square)
@@ -260,7 +260,7 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - **Two-Level Mokken Scale Analysis** for raters nested in subjects: within, between and ratio coefficients, intraclass correlations and weights for Guttman errors.
 - Before every table, a **"How to read" guide**: what the statistic measures, what values to expect and the most common misreading.
 - **14 plots** (item response functions, item pairs, P-matrix, violation profile, *H<sub>ij</sub>* heat map and more), all driven by one shared plot-settings panel, following jamovi's theme and colour palette.
-- Four bundled public datasets (including the clustered-item TROG test), **more than 500 automated tests** (including regression tests for every audit finding) running in CI on Linux, macOS and Windows on every push, and every number checked against direct mokken calls, also in CI; MokkenLab is in the **jamovi Library** since 1.0.1, and [v1.0.4](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4), the latest release, addresses every point of jamovi's audits and has been submitted to update the Library.
+- Four bundled public datasets (including the clustered-item TROG test), **more than 500 automated tests** (including regression tests for every audit finding) running in CI on Linux, macOS and Windows on every push, and every number checked against direct mokken calls, also in CI; current version [v1.0.4](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4), which addresses every point of jamovi's audits; MokkenLab is in the **jamovi Library** since 1.0.1, and 1.0.4 has been submitted to update it.
 - Every option with an explanatory paragraph, a key findings summary, native citations in every method-backed table, and every result reported in **English and Spanish**.
 
 *MokkenLab es un módulo de código abierto para jamovi que lleva todas las capacidades del paquete de R mokken, de teoría de respuesta al ítem no paramétrica, a jamovi. Evalúa si un conjunto de ítems dicotómicos u ordinales ordena a las personas de forma consistente en un mismo rasgo latente, y construye la evidencia alrededor de esa respuesta: coeficientes de escalabilidad, selección automática de ítems, los supuestos que dan sentido al puntaje total y el orden invariante de los ítems.*
@@ -271,10 +271,10 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 - *Análisis de Mokken de dos niveles para evaluadores anidados en sujetos: coeficientes dentro, entre y su razón, correlaciones intraclase y pesos para errores de Guttman.*
 - *Antes de cada tabla, una guía de cómo leerla: qué mide el estadístico, qué valores esperar y la lectura errónea más común.*
 - *14 gráficos (funciones de respuesta, pares de ítems, matriz P, perfil de violaciones, mapa de calor de H<sub>ij</sub> y más), todos controlados desde un mismo panel de ajustes, siguiendo el tema y la paleta de colores de jamovi.*
-- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), más de 500 pruebas automatizadas (entre ellas pruebas de regresión para cada hallazgo de las auditorías) corriendo en CI en Linux, macOS y Windows en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; MokkenLab está en la biblioteca de jamovi desde la 1.0.1, y la v1.0.4, la versión más reciente, atiende todas las observaciones de las auditorías de jamovi y ya se envió para actualizar la biblioteca.*
+- *Cuatro conjuntos de datos públicos incluidos (entre ellos el test TROG de ítems agrupados), más de 500 pruebas automatizadas (entre ellas pruebas de regresión para cada hallazgo de las auditorías) corriendo en CI en Linux, macOS y Windows en cada push, y cada número contrastado con llamadas directas a mokken, también en CI; versión actual [v1.0.4](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4), que atiende todas las observaciones de las auditorías de jamovi; MokkenLab está en la biblioteca de jamovi desde la 1.0.1, y la 1.0.4 ya se envió para actualizarla.*
 - *Cada opción con su párrafo explicativo, un Resumen de hallazgos, citas nativas en cada tabla y cada resultado reportado en inglés y español.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24441938.svg)](https://doi.org/10.5281/zenodo.24441938)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23955263.svg)](https://doi.org/10.5281/zenodo.23955263)
 [![Status](https://img.shields.io/badge/status-v1.0.4-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab/releases/tag/v1.0.4)
 [![jamovi Library](https://img.shields.io/badge/jamovi_Library-available-E6AC40?style=flat-square)](https://github.com/ArchieJamDev/MokkenLab#installation)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FMokkenLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/MokkenLab)
@@ -305,31 +305,76 @@ Combino la investigación científica publicada con el diseño de soluciones EdT
 </tr>
 </table>
 
-**PLSsemLab** is an open-source jamovi module that brings PLS-SEM (composite-based structural equation modeling) to jamovi, whose SEM modules built on lavaan do not estimate PLS. It uses the [cSEM](https://CRAN.R-project.org/package=cSEM) R package and covers, in one analysis, everything a complete PLS-SEM report needs, from the measurement model to multigroup comparisons.
+**PLSsemLab** is an open-source jamovi module that brings PLS-SEM (composite-based structural equation modeling) to jamovi. It uses the [cSEM](https://CRAN.R-project.org/package=cSEM) R package and covers, in one analysis, everything a complete PLS-SEM report needs, from the measurement model to multigroup comparisons.
 
 - **No syntax to type:** constructs are built by dragging indicators into named boxes, as in jamovi's own CFA, and the model is checked before estimation with messages that name the construct or indicator at fault.
 - **Measurement model:** PLS and consistent PLS; reliability (alpha, rho_A, rho_C), AVE, HTMT and HTMT2 with bootstrap intervals, Fornell-Larcker, indicator VIF; continuous or ordinal indicators.
 - **Structural model:** paths, R², f², VIF, direct, indirect and total effects, with a fast blockwise bootstrap (cancellable, visible seed); path diagram with moderations drawn on the path they moderate.
 - **Complex models:** higher-order constructs (disjoint two-stage approach) and two-way interactions with simple slopes, floodlight and Johnson-Neyman.
 - **Fit, prediction and more:** bootstrap test of overall model fit (SRMR, d_G, d_L) with decision and reading; PLSpredict, CVPAT, mediation, importance-performance map (IPMA); multigroup analysis with MICOM, PLS-MGA and permutation tests.
+- **New in 1.2.0:** weighting approaches (PLS-PM, GSCA, SUMCORR, MAXVAR, PCA or unit weights), jackknife standard errors, Mardia's multivariate normality test, construct scores saved to the data, and a PLSpredict benchmark and a model comparison against a competing model.
+- **Added in 1.1.0:** necessary condition analysis (NCA) combined with PLS-SEM (CE-FDH and CR-FDH effect sizes with permutation tests, bottlenecks, ceiling plots and the must-have / should-have reading of each path) and measurement invariance of the reflective constructs as common factors (configural, metric and scalar multigroup CFA with lavaan, next to MICOM).
 - **Teaching, not only computing:** "How to read" guides, an explanation of every choice, applied interpretation, a key findings summary and the equivalent R code, as in the rest of the suite — deterministic and cited, with no AI key needed.
 - Four bundled datasets with source and licence, including simulated learning data in which every option has something to show; every result in **English and Spanish**, following jamovi's language.
 
-*PLSsemLab es un módulo de código abierto para jamovi que lleva el PLS-SEM (modelos de ecuaciones estructurales basados en compuestos) a jamovi, cuyos módulos de SEM basados en lavaan no estiman PLS. Usa el paquete de R cSEM y reúne, en un solo análisis, todo lo que necesita un informe PLS-SEM completo, desde el modelo de medida hasta la comparación entre grupos.*
+*PLSsemLab es un módulo de código abierto para jamovi que lleva el PLS-SEM (modelos de ecuaciones estructurales basados en compuestos) a jamovi. Usa el paquete de R cSEM y reúne, en un solo análisis, todo lo que necesita un informe PLS-SEM completo, desde el modelo de medida hasta la comparación entre grupos.*
 
 - *Sin escribir sintaxis: los constructos se arman arrastrando indicadores a cajas con nombre, como en el AFC de jamovi, y el modelo se revisa antes de estimar, con mensajes que nombran el constructo o indicador con problemas.*
 - *Modelo de medida: PLS y PLS consistente; fiabilidad (alfa, rho_A, rho_C), AVE, HTMT y HTMT2 con intervalos bootstrap, Fornell-Larcker, VIF de indicadores; indicadores continuos u ordinales.*
 - *Modelo estructural: rutas, R², f², VIF, efectos directos, indirectos y totales, con un bootstrap rápido por bloques (cancelable, semilla visible); diagrama de rutas con las moderaciones dibujadas sobre la ruta que moderan.*
 - *Modelos complejos: constructos de orden superior (enfoque disjunto en dos etapas) e interacciones de dos vías con pendientes simples, floodlight y Johnson-Neyman.*
 - *Ajuste, predicción y más: prueba bootstrap del ajuste global (SRMR, d_G, d_L) con decisión y lectura; PLSpredict, CVPAT, mediación, mapa de importancia-desempeño (IPMA); análisis multigrupo con MICOM, PLS-MGA y pruebas de permutación.*
+- *Nuevo en la 1.2.0: enfoques de ponderación (PLS-PM, GSCA, SUMCORR, MAXVAR, PCA o pesos unitarios), errores estándar por jackknife, prueba de normalidad multivariada de Mardia, puntuaciones guardadas en los datos, y una referencia para PLSpredict y una comparación con un modelo competidor.*
+- *Añadido en la 1.1.0: análisis de condición necesaria (NCA) combinado con PLS-SEM (tamaños del efecto CE-FDH y CR-FDH con pruebas de permutación, cuellos de botella, gráficos de techo y la lectura imprescindible / conveniente de cada ruta) e invarianza de medida de los constructos reflectivos como factores comunes (AFC multigrupo configural, métrico y escalar con lavaan, junto a MICOM).*
 - *Enseñar, no solo calcular: guías de "Cómo leer", explicación de cada elección, interpretación aplicada, Resumen de hallazgos y el código R equivalente, como en el resto de la suite; determinista y citado, sin necesidad de una clave de IA.*
 - *Cuatro conjuntos de datos incluidos con fuente y licencia, entre ellos unos datos simulados para aprender en los que cada opción tiene algo que mostrar; cada resultado en inglés y español, siguiendo el idioma de jamovi.*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24341176.svg)](https://doi.org/10.5281/zenodo.24341176)
-[![Status](https://img.shields.io/badge/status-v1.0.1-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.0.1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24259622.svg)](https://doi.org/10.5281/zenodo.24259622)
+[![Status](https://img.shields.io/badge/status-v1.2.0-4A86E0?style=flat-square)](https://github.com/ArchieJamDev/PLSsemLab/releases/tag/v1.2.0)
 [![GitHub](https://img.shields.io/badge/GitHub-ArchieJamDev%2FPLSsemLab-181717?style=flat-square&logo=github)](https://github.com/ArchieJamDev/PLSsemLab)
 ![cSEM](https://img.shields.io/badge/cSEM-%E2%89%A5%200.7.1-181717?style=flat-square)
 ![PLSsemLab views](https://komarev.com/ghpvc/?username=ArchieJamDev-PLSsemLab&style=flat-square&color=181717&label=PLSsemLab+Views)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/PLSsemLab_demo.gif" width="90%" alt="PLSsemLab demo">
+</p>
+
+<details>
+<summary><strong>📸 Ver capturas de PLSsemLab</strong></summary>
+
+<div align="center">
+  <table width="100%" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-model-boxes.png" width="75%" loading="lazy" alt="Modelo por cajas">
+        <p><em>Modelo armado con cajas, sin sintaxis</em></p>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-measurement.png" width="75%" loading="lazy" alt="Constructos de orden superior">
+        <p><em>Constructos de orden superior y modelo de medida</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-estimation.png" width="75%" loading="lazy" alt="Estimación y predicción">
+        <p><em>Estimación, bootstrap, ajuste y predicción</em></p>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-structural.png" width="75%" loading="lazy" alt="Modelo estructural, IPMA y NCA">
+        <p><em>Mapa de importancia-desempeño, NCA y multigrupo</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/ArchieJamDev/ArchieJamDev/main/plssemlab-diagram.png" width="75%" loading="lazy" alt="Diagrama de rutas">
+        <p><em>Diagrama de rutas y cargas</em></p>
+      </td>
+      <td style="border: none;"></td>
+    </tr>
+  </table>
+</div>
+
+</details>
 
 ---
 
